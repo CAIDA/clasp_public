@@ -1,0 +1,24 @@
+#!/usr/local/bin/bash
+#usage: sshgeneral host_alias <location of keyfile> <host file> <username>
+HOSTFILE="/scratch/cloudspeedtest/cloudhosts"
+if [[ $3!="" ]]; then
+    HOSTFILE=$3
+fi
+echo $3 $HOSTFILE
+HNAME=`grep "$1[[:blank:]]" $HOSTFILE |awk '{print $2}'`
+echo $HNAME
+KEYFILE="/scratch/webspeedtest/cloud/speedtest_id_rsa"
+USERNAME="ubuntu"
+if [[ $2!="" ]]; then
+    KEYFILE=$2
+fi
+if [[ $4!="" ]]; then
+    USERNAME=$4
+fi
+
+if [[ $HNAME!="" ]]; then
+    echo "SSH $HNAME"
+    ssh -i $KEYFILE  $USERNAME@$HNAME
+else
+    echo "Host alias not found"
+fi

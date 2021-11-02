@@ -1,0 +1,555 @@
+[
+ {
+  "IPv4Address": "96.115.94.6",
+  "IPv6Address": "2001:558:FE0F:31::2",
+  "Sitename": "Pittsburgh, PA",
+  "Fqdn": "qoecnf-corl-02.sys.comcast.net",
+  "ServerId": 206
+ },
+ {
+  "IPv4Address": "76.96.44.142",
+  "IPv6Address": "2001:558:FE2C:100::2",
+  "Sitename": "Pima, AZ",
+  "Fqdn": "qoe-pima-01.sys.comcast.net",
+  "ServerId": 29
+ },
+ {
+  "IPv4Address": "69.241.115.202",
+  "IPv6Address": "2001:558:FE09:22::2",
+  "Sitename": "Naples, FL",
+  "Fqdn": "qoecnf-nape-03.sys.comcast.net",
+  "ServerId": 214
+ },
+ {
+  "IPv4Address": "76.96.47.70",
+  "IPv6Address": "2001:558:fe1c:1b::2",
+  "Sitename": "Denver, CO",
+  "Fqdn": "qoe-dnvr-02.sys.comcast.net",
+  "ServerId": 262
+ },
+ {
+  "IPv4Address": "69.241.89.194",
+  "IPv6Address": "2001:558:fe0b:20::2",
+  "Sitename": "Salt Lake City, UT",
+  "Fqdn": "qoecnf-stlk02-01.sys.comcast.net",
+  "ServerId": 134
+ },
+ {
+  "IPv4Address": "69.252.70.102",
+  "IPv6Address": "2001:558:FE0C:5::6",
+  "Sitename": "San Jose, CA",
+  "Fqdn": "qoerdc-sjos-03.sys.comcast.net",
+  "ServerId": 185
+ },
+ {
+  "IPv4Address": "69.252.86.198",
+  "IPv6Address": "2001:558:FE36:31::2",
+  "Sitename": "Secaucus, NJ",
+  "Fqdn": "qoecnf-seca-02.sys.comcast.net",
+  "ServerId": 121
+ },
+ {
+  "IPv4Address": "69.241.67.138",
+  "IPv6Address": "2001:558:FE2A:56::2",
+  "Sitename": "New Castle, DE",
+  "Fqdn": "qoerdc-ncst-03.sys.comcast.net",
+  "ServerId": 285
+ },
+ {
+  "IPv4Address": "69.241.89.74",
+  "IPv6Address": "2001:558:FE34:42::2",
+  "Sitename": "Seattle, WA",
+  "Fqdn": "qoecnf-seat-03.sys.comcast.net",
+  "ServerId": 115
+ },
+ {
+  "IPv4Address": "68.87.88.66",
+  "IPv6Address": "2001:558:FE1A:40::2",
+  "Sitename": "Katy, TX",
+  "Fqdn": "qoecnf-katy-01.sys.comcast.net",
+  "ServerId": 57
+ },
+ {
+  "IPv4Address": "69.241.116.70",
+  "IPv6Address": "2001:558:fe05:81::2",
+  "Sitename": "Area IV, IL",
+  "Fqdn": "qoerdc-chic-02.sys.comcast.net",
+  "ServerId": 156
+ },
+ {
+  "IPv4Address": "96.114.56.130",
+  "IPv6Address": "2001:558:FE30:30::2",
+  "Sitename": "Richmond, VA",
+  "Fqdn": "qoecnf-rmnd-01.sys.comcast.net",
+  "ServerId": 99
+ },
+ {
+  "IPv4Address": "69.252.42.134",
+  "IPv6Address": "2001:558:FE1D:21::2",
+  "Sitename": "Jacksonville, FL",
+  "Fqdn": "qoecnf-jack-02.sys.comcast.net",
+  "ServerId": 199
+ },
+ {
+  "IPv4Address": "69.252.32.162",
+  "IPv6Address": "2001:558:FE07:60::2",
+  "Sitename": "Manassas, VA",
+  "Fqdn": "qoerdc-mana-01.sys.comcast.net",
+  "ServerId": 169
+ },
+ {
+  "IPv4Address": "96.114.68.34",
+  "IPv6Address": "2001:558:fe26:24::2",
+  "Sitename": "Nashville, TN",
+  "Fqdn": "qoecnf-nash-02.sys.comcast.net",
+  "ServerId": 220
+ },
+ {
+  "IPv4Address": "69.252.215.198",
+  "IPv6Address": "2001:558:FE2E:211::2",
+  "Sitename": "Miami, FL",
+  "Fqdn": "qoecnf-mimi-02.sys.comcast.net",
+  "ServerId": 72
+ },
+ {
+  "IPv4Address": "69.241.115.198",
+  "IPv6Address": "2001:558:FE09:21::2",
+  "Sitename": "Naples, FL",
+  "Fqdn": "qoecnf-nape-02.sys.comcast.net",
+  "ServerId": 79
+ },
+ {
+  "IPv4Address": "69.241.116.74",
+  "IPv6Address": "2001:558:fe05:82::2",
+  "Sitename": "Area IV, IL",
+  "Fqdn": "qoerdc-chic-03.sys.comcast.net",
+  "ServerId": 256
+ },
+ {
+  "IPv4Address": "69.252.37.130",
+  "IPv6Address": "2001:558:fe3c:f::2",
+  "Sitename": "Augusta, GA",
+  "Fqdn": "qoe-agta-02.sys.comcast.net",
+  "ServerId": 2
+ },
+ {
+  "IPv4Address": "69.252.32.166",
+  "IPv6Address": "2001:558:FE07:61::2",
+  "Sitename": "Manassas, VA",
+  "Fqdn": "qoerdc-mana-02.sys.comcast.net",
+  "ServerId": 170
+ },
+ {
+  "IPv4Address": "76.96.113.138",
+  "IPv6Address": "2001:558:FE01:42::2",
+  "Sitename": "Portland, OR",
+  "Fqdn": "qoecnf-port-03.sys.comcast.net",
+  "ServerId": 94
+ },
+ {
+  "IPv4Address": "69.252.46.6",
+  "IPv6Address": "2001:558:fe22:c::2",
+  "Sitename": "Little Rock, AR",
+  "Fqdn": "qoe-lrck-01.sys.comcast.net",
+  "ServerId": 22
+ },
+ {
+  "IPv4Address": "69.241.23.126",
+  "IPv6Address": "2001:558:fe24:18::2",
+  "Sitename": "Twin Cities, MN",
+  "Fqdn": "qoecnf-eden-01.sys.comcast.net",
+  "ServerId": 43
+ },
+ {
+  "IPv4Address": "69.241.1.134",
+  "IPv6Address": "2001:558:fe28:20::2",
+  "Sitename": "Tallahassee, FL",
+  "Fqdn": "qoecnf-tall-01.sys.comcast.net",
+  "ServerId": 141
+ },
+ {
+  "IPv4Address": "162.150.126.42",
+  "IPv6Address": "2001:558:FE13:62::2",
+  "Sitename": "Woodstock, GA",
+  "Fqdn": "qoerdc-atlt-03.sys.comcast.net",
+  "ServerId": 249
+ },
+ {
+  "IPv4Address": "96.114.52.70",
+  "IPv6Address": "2001:558:FE1E:11::2",
+  "Sitename": "Memphis, TN",
+  "Fqdn": "qoecnf-malt-02.sys.comcast.net",
+  "ServerId": 65
+ },
+ {
+  "IPv4Address": "69.241.66.214",
+  "IPv6Address": "2001:558:FE2A:40::2",
+  "Sitename": "Philadelphia, PA",
+  "Fqdn": "qoecnf-csnt-01.sys.comcast.net",
+  "ServerId": 273
+ },
+ {
+  "IPv4Address": "69.252.75.10",
+  "IPv6Address": "2001:558:fe32:12::2",
+  "Sitename": "Sacramento, CA",
+  "Fqdn": "qoecnf-rnch-03.sys.comcast.net",
+  "ServerId": 108
+ },
+ {
+  "IPv4Address": "69.241.116.66",
+  "IPv6Address": "2001:558:fe05:80::2",
+  "Sitename": "Area IV, IL",
+  "Fqdn": "qoerdc-chic-01.sys.comcast.net",
+  "ServerId": 287
+ },
+ {
+  "IPv4Address": "76.96.44.174",
+  "IPv6Address": "2001:558:FE2C:104::2",
+  "Sitename": "Pima, AZ",
+  "Fqdn": "qoe-pima-02.sys.comcast.net",
+  "ServerId": 30
+ },
+ {
+  "IPv4Address": "76.96.113.134",
+  "IPv6Address": "2001:558:FE01:41::2",
+  "Sitename": "Portland, OR",
+  "Fqdn": "qoecnf-port-02.sys.comcast.net",
+  "ServerId": 93
+ },
+ {
+  "IPv4Address": "76.96.47.110",
+  "IPv6Address": "2001:558:fe1c:1a::2",
+  "Sitename": "Denver, CO",
+  "Fqdn": "qoe-dnvr-01.sys.comcast.net",
+  "ServerId": 261
+ },
+ {
+  "IPv4Address": "69.241.89.198",
+  "IPv6Address": "2001:558:fe0b:21::2",
+  "Sitename": "Salt Lake City, UT",
+  "Fqdn": "qoecnf-stlk02-02.sys.comcast.net",
+  "ServerId": 135
+ },
+ {
+  "IPv4Address": "69.252.86.202",
+  "IPv6Address": "2001:558:FE36:32::2",
+  "Sitename": "Secaucus, NJ",
+  "Fqdn": "qoecnf-seca-03.sys.comcast.net",
+  "ServerId": 122
+ },
+ {
+  "IPv4Address": "69.241.114.174",
+  "IPv6Address": "2001:558:fe24:1e::2",
+  "Sitename": "Twin Cities, MN",
+  "Fqdn": "qoecnf-eden-02.sys.comcast.net",
+  "ServerId": 44
+ },
+ {
+  "IPv4Address": "69.241.67.130",
+  "IPv6Address": "2001:558:FE2A:54::2",
+  "Sitename": "New Castle, DE",
+  "Fqdn": "qoerdc-ncst-01.sys.comcast.net",
+  "ServerId": 281
+ },
+ {
+  "IPv4Address": "69.252.92.70",
+  "IPv6Address": "2001:558:FE11:31::2",
+  "Sitename": "Detroit, MI",
+  "Fqdn": "qoecnf-sfld-02.sys.comcast.net",
+  "ServerId": 128
+ },
+ {
+  "IPv4Address": "69.241.1.138",
+  "IPv6Address": "2001:558:fe28:21::2",
+  "Sitename": "Tallahassee, FL",
+  "Fqdn": "qoecnf-tall-02.sys.comcast.net",
+  "ServerId": 241
+ },
+ {
+  "IPv4Address": "96.114.52.74",
+  "IPv6Address": "2001:558:FE1E:12::2",
+  "Sitename": "Memphis, TN",
+  "Fqdn": "qoecnf-malt-03.sys.comcast.net",
+  "ServerId": 66
+ },
+ {
+  "IPv4Address": "69.252.46.14",
+  "IPv6Address": "2001:558:fe22:d::2",
+  "Sitename": "Little Rock, AR",
+  "Fqdn": "qoe-lrck-02.sys.comcast.net",
+  "ServerId": 23
+ },
+ {
+  "IPv4Address": "69.252.215.202",
+  "IPv6Address": "2001:558:FE2E:212::2",
+  "Sitename": "Miami, FL",
+  "Fqdn": "qoecnf-mimi-03.sys.comcast.net",
+  "ServerId": 73
+ },
+ {
+  "IPv4Address": "69.241.115.194",
+  "IPv6Address": "2001:558:FE09:20::2",
+  "Sitename": "Naples, FL",
+  "Fqdn": "qoecnf-nape-01.sys.comcast.net",
+  "ServerId": 212
+ },
+ {
+  "IPv4Address": "69.241.23.246",
+  "IPv6Address": "2001:558:fe24:19::2",
+  "Sitename": "Twin Cities, MN",
+  "Fqdn": "qoecnf-eden-03.sys.comcast.net",
+  "ServerId": 45
+ },
+ {
+  "IPv4Address": "96.115.94.2",
+  "IPv6Address": "2001:558:FE0F:30::2",
+  "Sitename": "Pittsburgh, PA",
+  "Fqdn": "qoecnf-corl-01.sys.comcast.net",
+  "ServerId": 205
+ },
+ {
+  "IPv4Address": "69.252.92.74",
+  "IPv6Address": "2001:558:FE11:32::2",
+  "Sitename": "Detroit, MI",
+  "Fqdn": "qoecnf-sfld-03.sys.comcast.net",
+  "ServerId": 129
+ },
+ {
+  "IPv4Address": "69.252.42.138",
+  "IPv6Address": "2001:558:FE1D:22::2",
+  "Sitename": "Jacksonville, FL",
+  "Fqdn": "qoecnf-jack-03.sys.comcast.net",
+  "ServerId": 193
+ },
+ {
+  "IPv4Address": "96.114.56.134",
+  "IPv6Address": "2001:558:FE30:31::2",
+  "Sitename": "Richmond, VA",
+  "Fqdn": "qoecnf-rmnd-02.sys.comcast.net",
+  "ServerId": 100
+ },
+ {
+  "IPv4Address": "69.241.89.66",
+  "IPv6Address": "2001:558:FE34:40::2",
+  "Sitename": "Seattle, WA",
+  "Fqdn": "qoecnf-seat-01.sys.comcast.net",
+  "ServerId": 113
+ },
+ {
+  "IPv4Address": "96.115.94.10",
+  "IPv6Address": "2001:558:FE0F:32::2",
+  "Sitename": "Pittsburgh, PA",
+  "Fqdn": "qoecnf-corl-03.sys.comcast.net",
+  "ServerId": 207
+ },
+ {
+  "IPv4Address": "69.241.67.134",
+  "IPv6Address": "2001:558:FE2A:55::2",
+  "Sitename": "New Castle, DE",
+  "Fqdn": "qoerdc-ncst-02.sys.comcast.net",
+  "ServerId": 277
+ },
+ {
+  "IPv4Address": "162.150.126.34",
+  "IPv6Address": "2001:558:FE13:60::2",
+  "Sitename": "Woodstock, GA",
+  "Fqdn": "qoerdc-atlt-01.sys.comcast.net",
+  "ServerId": 226
+ },
+ {
+  "IPv4Address": "69.252.92.66",
+  "IPv6Address": "2001:558:fe11:30::2",
+  "Sitename": "Detroit, MI",
+  "Fqdn": "qoecnf-sfld-01.sys.comcast.net",
+  "ServerId": 127
+ },
+ {
+  "IPv4Address": "69.252.75.6",
+  "IPv6Address": "2001:558:fe32:11::2",
+  "Sitename": "Sacramento, CA",
+  "Fqdn": "qoecnf-rnch-02.sys.comcast.net",
+  "ServerId": 107
+ },
+ {
+  "IPv4Address": "76.96.47.98",
+  "IPv6Address": "2001:558:fe1c:87::2",
+  "Sitename": "Denver, CO",
+  "Fqdn": "qoe-dnvr-03.sys.comcast.net",
+  "ServerId": 17
+ },
+ {
+  "IPv4Address": "69.241.1.142",
+  "IPv6Address": "2001:558:fe28:22::2",
+  "Sitename": "Tallahassee, FL",
+  "Fqdn": "qoecnf-tall-03.sys.comcast.net",
+  "ServerId": 143
+ },
+ {
+  "IPv4Address": "96.114.68.38",
+  "IPv6Address": "2001:558:fe26:25::2",
+  "Sitename": "Nashville, TN",
+  "Fqdn": "qoecnf-nash-03.sys.comcast.net",
+  "ServerId": 221
+ },
+ {
+  "IPv4Address": "69.241.89.70",
+  "IPv6Address": "2001:558:FE34:41::2",
+  "Sitename": "Seattle, WA",
+  "Fqdn": "qoecnf-seat-02.sys.comcast.net",
+  "ServerId": 114
+ },
+ {
+  "IPv4Address": "69.252.37.118",
+  "IPv6Address": "2001:558:fe3c:e::2",
+  "Sitename": "Augusta, GA",
+  "Fqdn": "qoe-agta-01.sys.comcast.net",
+  "ServerId": 1
+ },
+ {
+  "IPv4Address": "96.114.56.138",
+  "IPv6Address": "2001:558:FE30:32::2",
+  "Sitename": "Richmond, VA",
+  "Fqdn": "qoecnf-rmnd-03.sys.comcast.net",
+  "ServerId": 101
+ },
+ {
+  "IPv4Address": "96.114.68.30",
+  "IPv6Address": "2001:558:fe26:23::2",
+  "Sitename": "Nashville, TN",
+  "Fqdn": "qoecnf-nash-01.sys.comcast.net",
+  "ServerId": 85
+ },
+ {
+  "IPv4Address": "69.241.89.202",
+  "IPv6Address": "2001:558:fe0b:22::2",
+  "Sitename": "Salt Lake City, UT",
+  "Fqdn": "qoecnf-stlk02-03.sys.comcast.net",
+  "ServerId": 136
+ },
+ {
+  "IPv4Address": "69.252.46.30",
+  "IPv6Address": "2001:558:fe22:e::2",
+  "Sitename": "Little Rock, AR",
+  "Fqdn": "qoe-lrck-03.sys.comcast.net",
+  "ServerId": 24
+ },
+ {
+  "IPv4Address": "162.150.126.38",
+  "IPv6Address": "2001:558:FE13:61::2",
+  "Sitename": "Woodstock, GA",
+  "Fqdn": "qoerdc-atlt-02.sys.comcast.net",
+  "ServerId": 248
+ },
+ {
+  "IPv4Address": "69.252.37.182",
+  "IPv6Address": "2001:558:fe3c:10::2",
+  "Sitename": "Augusta, GA",
+  "Fqdn": "qoe-agta-03.sys.comcast.net",
+  "ServerId": 3
+ },
+ {
+  "IPv4Address": "69.241.36.182",
+  "IPv6Address": "2001:558:FE18:16::2",
+  "Sitename": "Albuquerque, NM",
+  "Fqdn": "qoe-albq-02.sys.comcast.net",
+  "ServerId": 9
+ },
+ {
+  "IPv4Address": "69.241.35.194",
+  "IPv6Address": "2001:558:fe03:90::2",
+  "Sitename": "Foxboro, MA",
+  "Fqdn": "qoerdc-fxbo-01.sys.comcast.net",
+  "ServerId": 162
+ },
+ {
+  "IPv4Address": "68.87.88.74",
+  "IPv6Address": "2001:558:FE1A:42::2",
+  "Sitename": "Katy, TX",
+  "Fqdn": "qoecnf-katy-03.sys.comcast.net",
+  "ServerId": 59
+ },
+ {
+  "IPv4Address": "76.96.44.146",
+  "IPv6Address": "2001:558:FE2C:101::2",
+  "Sitename": "Pima, AZ",
+  "Fqdn": "qoe-pima-03.sys.comcast.net",
+  "ServerId": 31
+ },
+ {
+  "IPv4Address": "69.241.36.178",
+  "IPv6Address": "2001:558:fe18:15::2",
+  "Sitename": "Albuquerque, NM",
+  "Fqdn": "qoe-albq-01.sys.comcast.net",
+  "ServerId": 8
+ },
+ {
+  "IPv4Address": "69.241.35.198",
+  "IPv6Address": "2001:558:fe03:91::2",
+  "Sitename": "Foxboro, MA",
+  "Fqdn": "qoerdc-fxbo-02.sys.comcast.net",
+  "ServerId": 163
+ },
+ {
+  "IPv4Address": "76.96.113.130",
+  "IPv6Address": "2001:558:FE01:40::2",
+  "Sitename": "Portland, OR",
+  "Fqdn": "qoecnf-port-01.sys.comcast.net",
+  "ServerId": 92
+ },
+ {
+  "IPv4Address": "69.241.36.186",
+  "IPv6Address": "2001:558:fe18:17::2",
+  "Sitename": "Albuquerque, NM",
+  "Fqdn": "qoe-albq-03.sys.comcast.net",
+  "ServerId": 10
+ },
+ {
+  "IPv4Address": "69.252.42.130",
+  "IPv6Address": "2001:558:FE1D:20::2",
+  "Sitename": "Jacksonville, FL",
+  "Fqdn": "qoecnf-jack-01.sys.comcast.net",
+  "ServerId": 50
+ },
+ {
+  "IPv4Address": "69.252.70.100",
+  "IPv6Address": "2001:558:FE0C:5::4",
+  "Sitename": "San Jose, CA",
+  "Fqdn": "qoerdc-sjos-01.sys.comcast.net",
+  "ServerId": 183
+ },
+ {
+  "IPv4Address": "69.252.215.194",
+  "IPv6Address": "2001:558:FE2E:210::2",
+  "Sitename": "Miami, FL",
+  "Fqdn": "qoecnf-mimi-01.sys.comcast.net",
+  "ServerId": 71
+ },
+ {
+  "IPv4Address": "68.87.88.70",
+  "IPv6Address": "2001:558:FE1A:41::2",
+  "Sitename": "Katy, TX",
+  "Fqdn": "qoecnf-katy-02.sys.comcast.net",
+  "ServerId": 58
+ },
+ {
+  "IPv4Address": "69.252.32.170",
+  "IPv6Address": "2001:558:FE07:62::2",
+  "Sitename": "Manassas, VA",
+  "Fqdn": "qoerdc-mana-03.sys.comcast.net",
+  "ServerId": 171
+ },
+ {
+  "IPv4Address": "69.252.70.101",
+  "IPv6Address": "2001:558:FE0C:5::5",
+  "Sitename": "San Jose, CA",
+  "Fqdn": "qoerdc-sjos-02.sys.comcast.net",
+  "ServerId": 184
+ },
+ {
+  "IPv4Address": "69.241.35.202",
+  "IPv6Address": "2001:558:fe03:92::2",
+  "Sitename": "Foxboro, MA",
+  "Fqdn": "qoerdc-fxbo-03.sys.comcast.net",
+  "ServerId": 164
+ }
+]

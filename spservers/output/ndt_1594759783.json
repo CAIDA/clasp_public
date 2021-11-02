@@ -1,0 +1,2671 @@
+[
+ {
+  "ip": [
+   "209.170.119.203",
+   "2001:2030:0:29::203"
+  ],
+  "IPv4": "209.170.119.203",
+  "IPv6": "2001:2030:0:29::203",
+  "city": "Washington",
+  "url": "http://ndt-iupui-mlab1-iad06.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-iad06.mlab-oti.measurement-lab.org",
+  "site": "iad06",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 38.9444,
+  "longitude": -77.4558
+ },
+ {
+  "ip": [
+   "195.89.147.165",
+   "2001:500d:200:3::165"
+  ],
+  "IPv4": "195.89.147.165",
+  "IPv6": "2001:500d:200:3::165",
+  "city": "Lisbon",
+  "url": "http://ndt-iupui-mlab3-lis02.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-lis02.mlab-oti.measurement-lab.org",
+  "site": "lis02",
+  "country": "PT",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 38.7756,
+  "longitude": -9.1354
+ },
+ {
+  "ip": [
+   "216.66.14.101",
+   "2001:470:1:48f::101"
+  ],
+  "IPv4": "216.66.14.101",
+  "IPv6": "2001:470:1:48f::101",
+  "city": "Montreal",
+  "url": "http://ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org",
+  "site": "yul02",
+  "country": "CA",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 45.4576,
+  "longitude": -73.7497
+ },
+ {
+  "ip": [
+   "180.87.97.75",
+   "2405:2000:301::75"
+  ],
+  "IPv4": "180.87.97.75",
+  "IPv6": "2405:2000:301::75",
+  "city": "Singapore",
+  "url": "http://ndt-iupui-mlab1-sin01.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-sin01.mlab-oti.measurement-lab.org",
+  "site": "sin01",
+  "country": "SG",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 1.355,
+  "longitude": 103.988
+ },
+ {
+  "ip": [
+   "41.188.12.101"
+  ],
+  "IPv4": "41.188.12.101",
+  "IPv6": "",
+  "city": "Antananarivo",
+  "url": "http://ndt-iupui-mlab3-tnr01.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-tnr01.mlab-oti.measurement-lab.org",
+  "site": "tnr01",
+  "country": "MG",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": -18.7969,
+  "longitude": 47.4788
+ },
+ {
+  "ip": [
+   "80.239.169.37",
+   "2001:2030:32::37"
+  ],
+  "IPv4": "80.239.169.37",
+  "IPv6": "2001:2030:32::37",
+  "city": "Amsterdam",
+  "url": "http://ndt-iupui-mlab3-ams03.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-ams03.mlab-oti.measurement-lab.org",
+  "site": "ams03",
+  "country": "NL",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 52.3086,
+  "longitude": 4.7639
+ },
+ {
+  "ip": [
+   "77.67.114.37",
+   "2001:668:1f:5e::37"
+  ],
+  "IPv4": "77.67.114.37",
+  "IPv6": "2001:668:1f:5e::37",
+  "city": "Frankfurt",
+  "url": "http://ndt-iupui-mlab3-fra02.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-fra02.mlab-oti.measurement-lab.org",
+  "site": "fra02",
+  "country": "DE",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 50.0379,
+  "longitude": 8.5622
+ },
+ {
+  "ip": [
+   "162.213.96.24",
+   "2001:41a8:405:1::24"
+  ],
+  "IPv4": "162.213.96.24",
+  "IPv6": "2001:41a8:405:1::24",
+  "city": "London",
+  "url": "http://ndt-iupui-mlab2-lhr07.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-lhr07.mlab-oti.measurement-lab.org",
+  "site": "lhr07",
+  "country": "GB",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 51.4697,
+  "longitude": -0.4514
+ },
+ {
+  "ip": [
+   "91.213.30.216"
+  ],
+  "IPv4": "91.213.30.216",
+  "IPv6": "",
+  "city": "Barcelona",
+  "url": "http://ndt-iupui-mlab2-bcn01.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-bcn01.mlab-oti.measurement-lab.org",
+  "site": "bcn01",
+  "country": "ES",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 41.2974,
+  "longitude": 2.0811
+ },
+ {
+  "ip": [
+   "66.198.24.75",
+   "2001:5a0:4200::75"
+  ],
+  "IPv4": "66.198.24.75",
+  "IPv6": "2001:5a0:4200::75",
+  "city": "Chicago",
+  "url": "http://ndt-iupui-mlab1-ord03.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-ord03.mlab-oti.measurement-lab.org",
+  "site": "ord03",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 41.9786,
+  "longitude": -87.9047
+ },
+ {
+  "ip": [
+   "64.86.132.88",
+   "2001:5a0:3f00::88"
+  ],
+  "IPv4": "64.86.132.88",
+  "IPv6": "2001:5a0:3f00::88",
+  "city": "Dallas",
+  "url": "http://ndt-iupui-mlab2-dfw02.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-dfw02.mlab-oti.measurement-lab.org",
+  "site": "dfw02",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 32.8969,
+  "longitude": -97.0381
+ },
+ {
+  "ip": [
+   "209.170.110.216",
+   "2001:2030:0:12::216"
+  ],
+  "IPv4": "209.170.110.216",
+  "IPv6": "2001:2030:0:12::216",
+  "city": "San Francisco Bay Area",
+  "url": "http://ndt-iupui-mlab2-nuq07.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-nuq07.mlab-oti.measurement-lab.org",
+  "site": "nuq07",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 37.3833,
+  "longitude": -122.0667
+ },
+ {
+  "ip": [
+   "213.149.127.37",
+   "2a00:fe80:0:104::37"
+  ],
+  "IPv4": "213.149.127.37",
+  "IPv6": "2a00:fe80:0:104::37",
+  "city": "Podgorica",
+  "url": "http://ndt-iupui-mlab3-tgd01.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-tgd01.mlab-oti.measurement-lab.org",
+  "site": "tgd01",
+  "country": "ME",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 42.1078,
+  "longitude": 18.7616
+ },
+ {
+  "ip": [
+   "173.205.3.75"
+  ],
+  "IPv4": "173.205.3.75",
+  "IPv6": "",
+  "city": "Los Angeles",
+  "url": "http://ndt-iupui-mlab1-lax03.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-lax03.mlab-oti.measurement-lab.org",
+  "site": "lax03",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 33.9425,
+  "longitude": -118.4072
+ },
+ {
+  "ip": [
+   "128.177.163.101",
+   "2001:438:fffd:30::101"
+  ],
+  "IPv4": "128.177.163.101",
+  "IPv6": "2001:438:fffd:30::101",
+  "city": "Dallas",
+  "url": "http://ndt-iupui-mlab3-dfw05.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-dfw05.mlab-oti.measurement-lab.org",
+  "site": "dfw05",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 32.8969,
+  "longitude": -97.0381
+ },
+ {
+  "ip": [
+   "195.89.147.24",
+   "2001:5008:100:14::24"
+  ],
+  "IPv4": "195.89.147.24",
+  "IPv6": "2001:5008:100:14::24",
+  "city": "Milan",
+  "url": "http://ndt-iupui-mlab2-mil05.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-mil05.mlab-oti.measurement-lab.org",
+  "site": "mil05",
+  "country": "IT",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 45.464,
+  "longitude": 9.1916
+ },
+ {
+  "ip": [
+   "38.102.0.75",
+   "2001:550:3200:1::75"
+  ],
+  "IPv4": "38.102.0.75",
+  "IPv6": "2001:550:3200:1::75",
+  "city": "Seattle",
+  "url": "http://ndt-iupui-mlab1-sea08.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-sea08.mlab-oti.measurement-lab.org",
+  "site": "sea08",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 47.4489,
+  "longitude": -122.3094
+ },
+ {
+  "ip": [
+   "195.89.146.37",
+   "2001:5000:1100:31::37"
+  ],
+  "IPv4": "195.89.146.37",
+  "IPv6": "2001:5000:1100:31::37",
+  "city": "London",
+  "url": "http://ndt-iupui-mlab3-lhr04.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-lhr04.mlab-oti.measurement-lab.org",
+  "site": "lhr04",
+  "country": "GB",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 51.4697,
+  "longitude": -0.4514
+ },
+ {
+  "ip": [
+   "195.89.146.229",
+   "2001:5012:100:24::229"
+  ],
+  "IPv4": "195.89.146.229",
+  "IPv6": "2001:5012:100:24::229",
+  "city": "Stockholm",
+  "url": "http://ndt-iupui-mlab3-arn02.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-arn02.mlab-oti.measurement-lab.org",
+  "site": "arn02",
+  "country": "SE",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 59.6519,
+  "longitude": 17.9186
+ },
+ {
+  "ip": [
+   "213.244.128.139",
+   "2001:4c08:2003:2::139"
+  ],
+  "IPv4": "213.244.128.139",
+  "IPv6": "2001:4c08:2003:2::139",
+  "city": "Amsterdam",
+  "url": "http://ndt-iupui-mlab1-ams08.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-ams08.mlab-oti.measurement-lab.org",
+  "site": "ams08",
+  "country": "NL",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 52.3086,
+  "longitude": 4.7639
+ },
+ {
+  "ip": [
+   "115.113.240.203",
+   "2403:0:400:56::203"
+  ],
+  "IPv4": "115.113.240.203",
+  "IPv6": "2403:0:400:56::203",
+  "city": "New Delhi",
+  "url": "http://ndt-iupui-mlab1-del01.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-del01.mlab-oti.measurement-lab.org",
+  "site": "del01",
+  "country": "IN",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 28.5562,
+  "longitude": 77.1
+ },
+ {
+  "ip": [
+   "200.123.198.165",
+   "2800:870:1000:10::165"
+  ],
+  "IPv4": "200.123.198.165",
+  "IPv6": "2800:870:1000:10::165",
+  "city": "Sao Paulo",
+  "url": "http://ndt-iupui-mlab3-gru03.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-gru03.mlab-oti.measurement-lab.org",
+  "site": "gru03",
+  "country": "BR",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": -23.4305,
+  "longitude": -46.473
+ },
+ {
+  "ip": [
+   "203.178.130.229",
+   "2001:200:0:b801::229"
+  ],
+  "IPv4": "203.178.130.229",
+  "IPv6": "2001:200:0:b801::229",
+  "city": "Tokyo",
+  "url": "http://ndt-iupui-mlab3-hnd01.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-hnd01.mlab-oti.measurement-lab.org",
+  "site": "hnd01",
+  "country": "JP",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 35.5522,
+  "longitude": 139.78
+ },
+ {
+  "ip": [
+   "193.201.166.165"
+  ],
+  "IPv4": "193.201.166.165",
+  "IPv6": "",
+  "city": "Athens",
+  "url": "http://ndt-iupui-mlab3-ath03.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-ath03.mlab-oti.measurement-lab.org",
+  "site": "ath03",
+  "country": "GR",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 37.9364,
+  "longitude": 23.9444
+ },
+ {
+  "ip": [
+   "128.177.109.11",
+   "2001:438:fffd:29::11"
+  ],
+  "IPv4": "128.177.109.11",
+  "IPv6": "2001:438:fffd:29::11",
+  "city": "Miami",
+  "url": "http://ndt-iupui-mlab1-mia05.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-mia05.mlab-oti.measurement-lab.org",
+  "site": "mia05",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 25.7833,
+  "longitude": -80.2667
+ },
+ {
+  "ip": [
+   "4.71.210.229",
+   "2001:1900:3001:a::229"
+  ],
+  "IPv4": "4.71.210.229",
+  "IPv6": "2001:1900:3001:a::229",
+  "city": "Miami",
+  "url": "http://ndt-iupui-mlab3-mia06.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-mia06.mlab-oti.measurement-lab.org",
+  "site": "mia06",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 25.7833,
+  "longitude": -80.2667
+ },
+ {
+  "ip": [
+   "62.115.225.165",
+   "2001:2030:0:38::165"
+  ],
+  "IPv4": "62.115.225.165",
+  "IPv6": "2001:2030:0:38::165",
+  "city": "Stockholm",
+  "url": "http://ndt-iupui-mlab3-arn04.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-arn04.mlab-oti.measurement-lab.org",
+  "site": "arn04",
+  "country": "SE",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 59.6519,
+  "longitude": 17.9186
+ },
+ {
+  "ip": [
+   "64.86.200.229",
+   "2001:5a0:3b02::229"
+  ],
+  "IPv4": "64.86.200.229",
+  "IPv6": "2001:5a0:3b02::229",
+  "city": "Atlanta",
+  "url": "http://ndt-iupui-mlab3-atl03.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-atl03.mlab-oti.measurement-lab.org",
+  "site": "atl03",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 33.6367,
+  "longitude": -84.4281
+ },
+ {
+  "ip": [
+   "163.7.129.37",
+   "2404:138:4009::37"
+  ],
+  "IPv4": "163.7.129.37",
+  "IPv6": "2404:138:4009::37",
+  "city": "Auckland",
+  "url": "http://ndt-iupui-mlab3-akl01.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-akl01.mlab-oti.measurement-lab.org",
+  "site": "akl01",
+  "country": "NZ",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": -36.85,
+  "longitude": 174.783
+ },
+ {
+  "ip": [
+   "77.67.119.152",
+   "2001:668:1f:6b::152"
+  ],
+  "IPv4": "77.67.119.152",
+  "IPv6": "2001:668:1f:6b::152",
+  "city": "Paris",
+  "url": "http://ndt-iupui-mlab2-par04.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-par04.mlab-oti.measurement-lab.org",
+  "site": "par04",
+  "country": "FR",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 48.8584,
+  "longitude": 2.349
+ },
+ {
+  "ip": [
+   "93.142.125.165",
+   "2a01:3e0:10:2002::165"
+  ],
+  "IPv4": "93.142.125.165",
+  "IPv6": "2a01:3e0:10:2002::165",
+  "city": "London",
+  "url": "http://ndt-iupui-mlab3-lhr06.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-lhr06.mlab-oti.measurement-lab.org",
+  "site": "lhr06",
+  "country": "GB",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 51.4697,
+  "longitude": -0.4514
+ },
+ {
+  "ip": [
+   "196.24.45.165",
+   "2001:4200:fff0:4512::165"
+  ],
+  "IPv4": "196.24.45.165",
+  "IPv6": "2001:4200:fff0:4512::165",
+  "city": "Johannesburg",
+  "url": "http://ndt-iupui-mlab3-jnb01.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-jnb01.mlab-oti.measurement-lab.org",
+  "site": "jnb01",
+  "country": "ZA",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": -26.2035,
+  "longitude": 28.1335
+ },
+ {
+  "ip": [
+   "154.114.19.101",
+   "2001:4200:0:e::101"
+  ],
+  "IPv4": "154.114.19.101",
+  "IPv6": "2001:4200:0:e::101",
+  "city": "Cape",
+  "url": "http://ndt-iupui-mlab3-cpt01.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-cpt01.mlab-oti.measurement-lab.org",
+  "site": "cpt01",
+  "country": "ZA",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": -33.9724,
+  "longitude": 18.6018
+ },
+ {
+  "ip": [
+   "38.107.216.24",
+   "2001:550:2000::24"
+  ],
+  "IPv4": "38.107.216.24",
+  "IPv6": "2001:550:2000::24",
+  "city": "Dallas",
+  "url": "http://ndt-iupui-mlab2-dfw08.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-dfw08.mlab-oti.measurement-lab.org",
+  "site": "dfw08",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 32.8969,
+  "longitude": -97.0381
+ },
+ {
+  "ip": [
+   "80.239.142.229",
+   "2001:2030:0:19::229"
+  ],
+  "IPv4": "80.239.142.229",
+  "IPv6": "2001:2030:0:19::229",
+  "city": "Hamburg",
+  "url": "http://ndt-iupui-mlab3-ham02.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-ham02.mlab-oti.measurement-lab.org",
+  "site": "ham02",
+  "country": "DE",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 53.6333,
+  "longitude": 9.9833
+ },
+ {
+  "ip": [
+   "62.115.229.203",
+   "2001:2030:0:39::203"
+  ],
+  "IPv4": "62.115.229.203",
+  "IPv6": "2001:2030:0:39::203",
+  "city": "Brussels",
+  "url": "http://ndt-iupui-mlab1-bru03.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-bru03.mlab-oti.measurement-lab.org",
+  "site": "bru03",
+  "country": "BE",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 50.4974,
+  "longitude": 3.3528
+ },
+ {
+  "ip": [
+   "200.237.203.24",
+   "2801:80:a88:4006::24"
+  ],
+  "IPv4": "200.237.203.24",
+  "IPv6": "2801:80:a88:4006::24",
+  "city": "Florianopolis",
+  "url": "http://ndt-iupui-mlab2-fln01.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-fln01.mlab-oti.measurement-lab.org",
+  "site": "fln01",
+  "country": "BR",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": -27.6685,
+  "longitude": -48.546
+ },
+ {
+  "ip": [
+   "213.242.96.216",
+   "2001:4c08:2003:3d::216"
+  ],
+  "IPv4": "213.242.96.216",
+  "IPv6": "2001:4c08:2003:3d::216",
+  "city": "Lisbon",
+  "url": "http://ndt-iupui-mlab2-lis01.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-lis01.mlab-oti.measurement-lab.org",
+  "site": "lis01",
+  "country": "PT",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 38.7756,
+  "longitude": -9.1354
+ },
+ {
+  "ip": [
+   "212.73.231.229",
+   "2001:4c08:2003:3f::229"
+  ],
+  "IPv4": "212.73.231.229",
+  "IPv6": "2001:4c08:2003:3f::229",
+  "city": "Paris",
+  "url": "http://ndt-iupui-mlab3-par02.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-par02.mlab-oti.measurement-lab.org",
+  "site": "par02",
+  "country": "FR",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 48.8584,
+  "longitude": 2.349
+ },
+ {
+  "ip": [
+   "80.239.156.152",
+   "2001:2030:31::152"
+  ],
+  "IPv4": "80.239.156.152",
+  "IPv6": "2001:2030:31::152",
+  "city": "Prague",
+  "url": "http://ndt-iupui-mlab2-prg03.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-prg03.mlab-oti.measurement-lab.org",
+  "site": "prg03",
+  "country": "CZ",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 50.0833,
+  "longitude": 14.4167
+ },
+ {
+  "ip": [
+   "213.208.152.24",
+   "2a01:190:1700:38::24"
+  ],
+  "IPv4": "213.208.152.24",
+  "IPv6": "2a01:190:1700:38::24",
+  "city": "Vienna",
+  "url": "http://ndt-iupui-mlab2-vie01.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-vie01.mlab-oti.measurement-lab.org",
+  "site": "vie01",
+  "country": "AT",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 48.269,
+  "longitude": 16.4107
+ },
+ {
+  "ip": [
+   "208.116.164.24",
+   "2001:668:1f:b3::24"
+  ],
+  "IPv4": "208.116.164.24",
+  "IPv6": "2001:668:1f:b3::24",
+  "city": "Denver",
+  "url": "http://ndt-iupui-mlab2-den06.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-den06.mlab-oti.measurement-lab.org",
+  "site": "den06",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 39.8561,
+  "longitude": -104.6737
+ },
+ {
+  "ip": [
+   "195.89.146.152",
+   "2001:5005:200::152"
+  ],
+  "IPv4": "195.89.146.152",
+  "IPv6": "2001:5005:200::152",
+  "city": "Brussels",
+  "url": "http://ndt-iupui-mlab2-bru01.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-bru01.mlab-oti.measurement-lab.org",
+  "site": "bru01",
+  "country": "BE",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 50.4974,
+  "longitude": 3.3528
+ },
+ {
+  "ip": [
+   "77.67.119.24"
+  ],
+  "IPv4": "77.67.119.24",
+  "IPv6": "",
+  "city": "Brussels",
+  "url": "http://ndt-iupui-mlab2-bru04.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-bru04.mlab-oti.measurement-lab.org",
+  "site": "bru04",
+  "country": "BE",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 50.4974,
+  "longitude": 3.3528
+ },
+ {
+  "ip": [
+   "173.205.3.203",
+   "2001:668:1f:20::203"
+  ],
+  "IPv4": "173.205.3.203",
+  "IPv6": "2001:668:1f:20::203",
+  "city": "Chicago",
+  "url": "http://ndt-iupui-mlab1-ord04.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-ord04.mlab-oti.measurement-lab.org",
+  "site": "ord04",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 41.9786,
+  "longitude": -87.9047
+ },
+ {
+  "ip": [
+   "175.45.79.37",
+   "2402:7800:0:12::37"
+  ],
+  "IPv4": "175.45.79.37",
+  "IPv6": "2402:7800:0:12::37",
+  "city": "Sydney",
+  "url": "http://ndt-iupui-mlab3-syd02.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-syd02.mlab-oti.measurement-lab.org",
+  "site": "syd02",
+  "country": "AU",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": -33.9461,
+  "longitude": 151.177
+ },
+ {
+  "ip": [
+   "64.235.255.152",
+   "2400:f780:1f:d::152"
+  ],
+  "IPv4": "64.235.255.152",
+  "IPv6": "2400:f780:1f:d::152",
+  "city": "Tokyo",
+  "url": "http://ndt-iupui-mlab2-hnd04.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-hnd04.mlab-oti.measurement-lab.org",
+  "site": "hnd04",
+  "country": "JP",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 35.5522,
+  "longitude": 139.78
+ },
+ {
+  "ip": [
+   "77.67.115.101",
+   "2001:668:1f:63::101"
+  ],
+  "IPv4": "77.67.115.101",
+  "IPv6": "2001:668:1f:63::101",
+  "city": "Madrid",
+  "url": "http://ndt-iupui-mlab3-mad04.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-mad04.mlab-oti.measurement-lab.org",
+  "site": "mad04",
+  "country": "ES",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 40.4667,
+  "longitude": -3.5667
+ },
+ {
+  "ip": [
+   "66.110.32.88",
+   "2001:5a0:3e00::88"
+  ],
+  "IPv4": "66.110.32.88",
+  "IPv6": "2001:5a0:3e00::88",
+  "city": "San Francisco Bay Area",
+  "url": "http://ndt-iupui-mlab2-nuq04.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-nuq04.mlab-oti.measurement-lab.org",
+  "site": "nuq04",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 37.3833,
+  "longitude": -122.0667
+ },
+ {
+  "ip": [
+   "81.167.39.24",
+   "2a01:798:0:13::24"
+  ],
+  "IPv4": "81.167.39.24",
+  "IPv6": "2a01:798:0:13::24",
+  "city": "Stavanger",
+  "url": "http://ndt-iupui-mlab2-svg01.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-svg01.mlab-oti.measurement-lab.org",
+  "site": "svg01",
+  "country": "NO",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 58.8767,
+  "longitude": 5.6378
+ },
+ {
+  "ip": [
+   "41.231.21.11"
+  ],
+  "IPv4": "41.231.21.11",
+  "IPv6": "",
+  "city": "Tunis",
+  "url": "http://ndt-iupui-mlab1-tun01.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-tun01.mlab-oti.measurement-lab.org",
+  "site": "tun01",
+  "country": "TN",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 36.8516,
+  "longitude": 10.2291
+ },
+ {
+  "ip": [
+   "149.20.5.75",
+   "2001:4f8:1:1001::75"
+  ],
+  "IPv4": "149.20.5.75",
+  "IPv6": "2001:4f8:1:1001::75",
+  "city": "San Francisco Bay Area",
+  "url": "http://ndt-iupui-mlab1-nuq02.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-nuq02.mlab-oti.measurement-lab.org",
+  "site": "nuq02",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 37.3833,
+  "longitude": -122.0667
+ },
+ {
+  "ip": [
+   "184.105.70.203",
+   "2001:470:1:822::203"
+  ],
+  "IPv4": "184.105.70.203",
+  "IPv6": "2001:470:1:822::203",
+  "city": "Vancouver",
+  "url": "http://ndt-iupui-mlab1-yvr01.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-yvr01.mlab-oti.measurement-lab.org",
+  "site": "yvr01",
+  "country": "CA",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 49.1902,
+  "longitude": -123.1837
+ },
+ {
+  "ip": [
+   "4.15.35.165",
+   "2001:1900:2200:44::165"
+  ],
+  "IPv4": "4.15.35.165",
+  "IPv6": "2001:1900:2200:44::165",
+  "city": "Dallas",
+  "url": "http://ndt-iupui-mlab3-dfw03.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-dfw03.mlab-oti.measurement-lab.org",
+  "site": "dfw03",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 32.8969,
+  "longitude": -97.0381
+ },
+ {
+  "ip": [
+   "38.112.151.88",
+   "2001:550:5b00:1::88"
+  ],
+  "IPv4": "38.112.151.88",
+  "IPv6": "2001:550:5b00:1::88",
+  "city": "Atlanta",
+  "url": "http://ndt-iupui-mlab2-atl02.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-atl02.mlab-oti.measurement-lab.org",
+  "site": "atl02",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 33.6367,
+  "longitude": -84.4281
+ },
+ {
+  "ip": [
+   "193.1.12.216",
+   "2001:770:b5::216"
+  ],
+  "IPv4": "193.1.12.216",
+  "IPv6": "2001:770:b5::216",
+  "city": "Dublin",
+  "url": "http://ndt-iupui-mlab2-dub01.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-dub01.mlab-oti.measurement-lab.org",
+  "site": "dub01",
+  "country": "IE",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 53.4333,
+  "longitude": -6.25
+ },
+ {
+  "ip": [
+   "38.106.70.139",
+   "2001:550:1d00:100::139"
+  ],
+  "IPv4": "38.106.70.139",
+  "IPv6": "2001:550:1d00:100::139",
+  "city": "New York",
+  "url": "http://ndt-iupui-mlab1-lga08.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-lga08.mlab-oti.measurement-lab.org",
+  "site": "lga08",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 40.7667,
+  "longitude": -73.8667
+ },
+ {
+  "ip": [
+   "202.90.156.11",
+   "2001:d18:0:35::11"
+  ],
+  "IPv4": "202.90.156.11",
+  "IPv6": "2001:d18:0:35::11",
+  "city": "Manila",
+  "url": "http://ndt-iupui-mlab1-mnl01.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-mnl01.mlab-oti.measurement-lab.org",
+  "site": "mnl01",
+  "country": "PH",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 14.5086,
+  "longitude": 121.0194
+ },
+ {
+  "ip": [
+   "190.98.158.37",
+   "2001:1498:1:960::37"
+  ],
+  "IPv4": "190.98.158.37",
+  "IPv6": "2001:1498:1:960::37",
+  "city": "Sao Paulo",
+  "url": "http://ndt-iupui-mlab3-gru04.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-gru04.mlab-oti.measurement-lab.org",
+  "site": "gru04",
+  "country": "BR",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": -23.4305,
+  "longitude": -46.473
+ },
+ {
+  "ip": [
+   "163.22.28.11",
+   "2001:e10:6840:28::11"
+  ],
+  "IPv4": "163.22.28.11",
+  "IPv6": "2001:e10:6840:28::11",
+  "city": "Taipei",
+  "url": "http://ndt-iupui-mlab1-tpe01.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-tpe01.mlab-oti.measurement-lab.org",
+  "site": "tpe01",
+  "country": "TW",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 25.0778,
+  "longitude": 121.224
+ },
+ {
+  "ip": [
+   "121.242.229.101",
+   "2403:0:200:3c::101"
+  ],
+  "IPv4": "121.242.229.101",
+  "IPv6": "2403:0:200:3c::101",
+  "city": "Chennai",
+  "url": "http://ndt-iupui-mlab3-maa01.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-maa01.mlab-oti.measurement-lab.org",
+  "site": "maa01",
+  "country": "IN",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 12.9941,
+  "longitude": 80.1709
+ },
+ {
+  "ip": [
+   "38.102.163.139",
+   "2001:550:1502::139"
+  ],
+  "IPv4": "38.102.163.139",
+  "IPv6": "2001:550:1502::139",
+  "city": "San Francisco Bay Area",
+  "url": "http://ndt-iupui-mlab1-nuq03.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-nuq03.mlab-oti.measurement-lab.org",
+  "site": "nuq03",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 37.3833,
+  "longitude": -122.0667
+ },
+ {
+  "ip": [
+   "65.49.72.203",
+   "2001:470:1:42c::203"
+  ],
+  "IPv4": "65.49.72.203",
+  "IPv6": "2001:470:1:42c::203",
+  "city": "Calgary",
+  "url": "http://ndt-iupui-mlab1-yyc02.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-yyc02.mlab-oti.measurement-lab.org",
+  "site": "yyc02",
+  "country": "CA",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 51.1315,
+  "longitude": -114.0106
+ },
+ {
+  "ip": [
+   "173.205.3.11",
+   "2001:668:1f:1d::11"
+  ],
+  "IPv4": "173.205.3.11",
+  "IPv6": "2001:668:1f:1d::11",
+  "city": "Seattle",
+  "url": "http://ndt-iupui-mlab1-sea03.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-sea03.mlab-oti.measurement-lab.org",
+  "site": "sea03",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 47.4489,
+  "longitude": -122.3094
+ },
+ {
+  "ip": [
+   "173.205.0.229",
+   "2001:668:1f:1c::229"
+  ],
+  "IPv4": "173.205.0.229",
+  "IPv6": "2001:668:1f:1c::229",
+  "city": "Atlanta",
+  "url": "http://ndt-iupui-mlab3-atl04.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-atl04.mlab-oti.measurement-lab.org",
+  "site": "atl04",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 33.6367,
+  "longitude": -84.4281
+ },
+ {
+  "ip": [
+   "195.89.146.75",
+   "2001:5001:200:30::75"
+  ],
+  "IPv4": "195.89.146.75",
+  "IPv6": "2001:5001:200:30::75",
+  "city": "Frankfurt",
+  "url": "http://ndt-iupui-mlab1-fra03.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-fra03.mlab-oti.measurement-lab.org",
+  "site": "fra03",
+  "country": "DE",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 50.0379,
+  "longitude": 8.5622
+ },
+ {
+  "ip": [
+   "210.151.179.165",
+   "2001:260:8a::165"
+  ],
+  "IPv4": "210.151.179.165",
+  "IPv6": "2001:260:8a::165",
+  "city": "Tokyo",
+  "url": "http://ndt-iupui-mlab3-hnd02.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-hnd02.mlab-oti.measurement-lab.org",
+  "site": "hnd02",
+  "country": "JP",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 35.5522,
+  "longitude": 139.78
+ },
+ {
+  "ip": [
+   "197.136.0.101"
+  ],
+  "IPv4": "197.136.0.101",
+  "IPv6": "",
+  "city": "Nairobi",
+  "url": "http://ndt-iupui-mlab3-nbo01.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-nbo01.mlab-oti.measurement-lab.org",
+  "site": "nbo01",
+  "country": "KE",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": -1.3192,
+  "longitude": 36.9258
+ },
+ {
+  "ip": [
+   "128.177.109.88",
+   "2001:438:fffd:2c::88"
+  ],
+  "IPv4": "128.177.109.88",
+  "IPv6": "2001:438:fffd:2c::88",
+  "city": "Denver",
+  "url": "http://ndt-iupui-mlab2-den04.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-den04.mlab-oti.measurement-lab.org",
+  "site": "den04",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 39.8561,
+  "longitude": -104.6737
+ },
+ {
+  "ip": [
+   "14.143.58.139",
+   "2403:0:100:66::139"
+  ],
+  "IPv4": "14.143.58.139",
+  "IPv6": "2403:0:100:66::139",
+  "city": "Mumbai",
+  "url": "http://ndt-iupui-mlab1-bom02.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-bom02.mlab-oti.measurement-lab.org",
+  "site": "bom02",
+  "country": "IN",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 19.0886,
+  "longitude": 72.8681
+ },
+ {
+  "ip": [
+   "209.51.169.152",
+   "2001:470:1:820::152"
+  ],
+  "IPv4": "209.51.169.152",
+  "IPv6": "2001:470:1:820::152",
+  "city": "Moncton",
+  "url": "http://ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org",
+  "site": "yqm01",
+  "country": "CA",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 46.1073,
+  "longitude": -64.6738
+ },
+ {
+  "ip": [
+   "80.239.222.37",
+   "2001:2030:30::37"
+  ],
+  "IPv4": "80.239.222.37",
+  "IPv6": "2001:2030:30::37",
+  "city": "Milan",
+  "url": "http://ndt-iupui-mlab3-mil02.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-mil02.mlab-oti.measurement-lab.org",
+  "site": "mil02",
+  "country": "IT",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 45.464,
+  "longitude": 9.1916
+ },
+ {
+  "ip": [
+   "213.242.77.139",
+   "2001:1900:2200:af::139"
+  ],
+  "IPv4": "213.242.77.139",
+  "IPv6": "2001:1900:2200:af::139",
+  "city": "Milan",
+  "url": "http://ndt-iupui-mlab1-mil04.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-mil04.mlab-oti.measurement-lab.org",
+  "site": "mil04",
+  "country": "IT",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 45.464,
+  "longitude": 9.1916
+ },
+ {
+  "ip": [
+   "4.71.251.152",
+   "2001:1900:3001:b::152"
+  ],
+  "IPv4": "4.71.251.152",
+  "IPv6": "2001:1900:3001:b::152",
+  "city": "Chicago",
+  "url": "http://ndt-iupui-mlab2-ord06.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-ord06.mlab-oti.measurement-lab.org",
+  "site": "ord06",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 41.9786,
+  "longitude": -87.9047
+ },
+ {
+  "ip": [
+   "4.71.157.139",
+   "2001:1900:2100:16::139"
+  ],
+  "IPv4": "4.71.157.139",
+  "IPv6": "2001:1900:2100:16::139",
+  "city": "Seattle",
+  "url": "http://ndt-iupui-mlab1-sea04.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-sea04.mlab-oti.measurement-lab.org",
+  "site": "sea04",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 47.4489,
+  "longitude": -122.3094
+ },
+ {
+  "ip": [
+   "111.109.1.88",
+   "2001:268:809:b::88"
+  ],
+  "IPv4": "111.109.1.88",
+  "IPv6": "2001:268:809:b::88",
+  "city": "Tokyo",
+  "url": "http://ndt-iupui-mlab2-hnd03.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-hnd03.mlab-oti.measurement-lab.org",
+  "site": "hnd03",
+  "country": "JP",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 35.5522,
+  "longitude": 139.78
+ },
+ {
+  "ip": [
+   "173.205.4.24",
+   "2001:668:1f:21::24"
+  ],
+  "IPv4": "173.205.4.24",
+  "IPv6": "2001:668:1f:21::24",
+  "city": "Washington",
+  "url": "http://ndt-iupui-mlab2-iad04.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-iad04.mlab-oti.measurement-lab.org",
+  "site": "iad04",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 38.9444,
+  "longitude": -77.4558
+ },
+ {
+  "ip": [
+   "216.66.68.139",
+   "2001:470:1:70a::139"
+  ],
+  "IPv4": "216.66.68.139",
+  "IPv6": "2001:470:1:70a::139",
+  "city": "Toronto",
+  "url": "http://ndt-iupui-mlab1-yyz02.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-yyz02.mlab-oti.measurement-lab.org",
+  "site": "yyz02",
+  "country": "CA",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 43.6767,
+  "longitude": -79.6306
+ },
+ {
+  "ip": [
+   "80.239.229.139",
+   "2001:2030:34::139"
+  ],
+  "IPv4": "80.239.229.139",
+  "IPv6": "2001:2030:34::139",
+  "city": "Madrid",
+  "url": "http://ndt-iupui-mlab1-mad03.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-mad03.mlab-oti.measurement-lab.org",
+  "site": "mad03",
+  "country": "ES",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 40.4667,
+  "longitude": -3.5667
+ },
+ {
+  "ip": [
+   "77.67.119.88",
+   "2001:668:1f:6a::88"
+  ],
+  "IPv4": "77.67.119.88",
+  "IPv6": "2001:668:1f:6a::88",
+  "city": "Stockholm",
+  "url": "http://ndt-iupui-mlab2-arn05.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-arn05.mlab-oti.measurement-lab.org",
+  "site": "arn05",
+  "country": "SE",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 59.6519,
+  "longitude": 17.9186
+ },
+ {
+  "ip": [
+   "4.35.94.11",
+   "2001:1900:2100:14::11"
+  ],
+  "IPv4": "4.35.94.11",
+  "IPv6": "2001:1900:2100:14::11",
+  "city": "New York",
+  "url": "http://ndt-iupui-mlab1-lga05.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-lga05.mlab-oti.measurement-lab.org",
+  "site": "lga05",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 40.7667,
+  "longitude": -73.8667
+ },
+ {
+  "ip": [
+   "203.5.76.165",
+   "2001:388:d0::165"
+  ],
+  "IPv4": "203.5.76.165",
+  "IPv6": "2001:388:d0::165",
+  "city": "Sydney",
+  "url": "http://ndt-iupui-mlab3-syd03.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-syd03.mlab-oti.measurement-lab.org",
+  "site": "syd03",
+  "country": "AU",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": -33.9461,
+  "longitude": 151.177
+ },
+ {
+  "ip": [
+   "38.90.140.139",
+   "2001:550:200:7::139"
+  ],
+  "IPv4": "38.90.140.139",
+  "IPv6": "2001:550:200:7::139",
+  "city": "Washington",
+  "url": "http://ndt-iupui-mlab1-iad02.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-iad02.mlab-oti.measurement-lab.org",
+  "site": "iad02",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 38.9444,
+  "longitude": -77.4558
+ },
+ {
+  "ip": [
+   "77.67.114.101",
+   "2001:668:1f:5f::101"
+  ],
+  "IPv4": "77.67.114.101",
+  "IPv6": "2001:668:1f:5f::101",
+  "city": "Amsterdam",
+  "url": "http://ndt-iupui-mlab3-ams04.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-ams04.mlab-oti.measurement-lab.org",
+  "site": "ams04",
+  "country": "NL",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 52.3086,
+  "longitude": 4.7639
+ },
+ {
+  "ip": [
+   "128.177.163.24",
+   "2001:438:fffd:2f::24"
+  ],
+  "IPv4": "128.177.163.24",
+  "IPv6": "2001:438:fffd:2f::24",
+  "city": "Chicago",
+  "url": "http://ndt-iupui-mlab2-ord05.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-ord05.mlab-oti.measurement-lab.org",
+  "site": "ord05",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 41.9786,
+  "longitude": -87.9047
+ },
+ {
+  "ip": [
+   "209.170.120.101",
+   "2001:2030:0:3b::101"
+  ],
+  "IPv4": "209.170.120.101",
+  "IPv6": "2001:2030:0:3b::101",
+  "city": "Denver",
+  "url": "http://ndt-iupui-mlab3-den05.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-den05.mlab-oti.measurement-lab.org",
+  "site": "den05",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 39.8561,
+  "longitude": -104.6737
+ },
+ {
+  "ip": [
+   "195.89.147.75",
+   "2001:5016:100:3::75"
+  ],
+  "IPv4": "195.89.147.75",
+  "IPv6": "2001:5016:100:3::75",
+  "city": "Prague",
+  "url": "http://ndt-iupui-mlab1-prg05.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-prg05.mlab-oti.measurement-lab.org",
+  "site": "prg05",
+  "country": "CZ",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 50.0833,
+  "longitude": 14.4167
+ },
+ {
+  "ip": [
+   "209.170.110.139",
+   "2001:2030:0:a::139"
+  ],
+  "IPv4": "209.170.110.139",
+  "IPv6": "2001:2030:0:a::139",
+  "city": "Seattle",
+  "url": "http://ndt-iupui-mlab1-sea07.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-sea07.mlab-oti.measurement-lab.org",
+  "site": "sea07",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 47.4489,
+  "longitude": -122.3094
+ },
+ {
+  "ip": [
+   "93.142.125.229",
+   "2001:5a0:2a00:201::229"
+  ],
+  "IPv4": "93.142.125.229",
+  "IPv6": "2001:5a0:2a00:201::229",
+  "city": "Madrid",
+  "url": "http://ndt-iupui-mlab3-mad05.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-mad05.mlab-oti.measurement-lab.org",
+  "site": "mad05",
+  "country": "ES",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 40.4667,
+  "longitude": -3.5667
+ },
+ {
+  "ip": [
+   "91.239.96.75"
+  ],
+  "IPv4": "91.239.96.75",
+  "IPv6": "",
+  "city": "Ljubljana",
+  "url": "http://ndt-iupui-mlab1-lju01.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-lju01.mlab-oti.measurement-lab.org",
+  "site": "lju01",
+  "country": "SI",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 46.2236,
+  "longitude": 14.4575
+ },
+ {
+  "ip": [
+   "183.178.65.11",
+   "2403:f500:4800::11"
+  ],
+  "IPv4": "183.178.65.11",
+  "IPv6": "2403:f500:4800::11",
+  "city": "Hong Kong",
+  "url": "http://ndt-iupui-mlab1-hkg01.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-hkg01.mlab-oti.measurement-lab.org",
+  "site": "hkg01",
+  "country": "HK",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 22.3089,
+  "longitude": 113.9144
+ },
+ {
+  "ip": [
+   "38.65.210.216",
+   "2001:550:1b01:1::216"
+  ],
+  "IPv4": "38.65.210.216",
+  "IPv6": "2001:550:1b01:1::216",
+  "city": "Chicago",
+  "url": "http://ndt-iupui-mlab2-ord02.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-ord02.mlab-oti.measurement-lab.org",
+  "site": "ord02",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 41.9786,
+  "longitude": -87.9047
+ },
+ {
+  "ip": [
+   "189.125.228.75",
+   "2804:4c0:ffff:fac3::75"
+  ],
+  "IPv4": "189.125.228.75",
+  "IPv6": "2804:4c0:ffff:fac3::75",
+  "city": "Sao Paulo",
+  "url": "http://ndt-iupui-mlab1-gru01.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-gru01.mlab-oti.measurement-lab.org",
+  "site": "gru01",
+  "country": "BR",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": -23.4305,
+  "longitude": -46.473
+ },
+ {
+  "ip": [
+   "212.113.31.11",
+   "2001:4c08:2003:3c::11"
+  ],
+  "IPv4": "212.113.31.11",
+  "IPv6": "2001:4c08:2003:3c::11",
+  "city": "London",
+  "url": "http://ndt-iupui-mlab1-lhr05.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-lhr05.mlab-oti.measurement-lab.org",
+  "site": "lhr05",
+  "country": "GB",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 51.4697,
+  "longitude": -0.4514
+ },
+ {
+  "ip": [
+   "188.120.127.11",
+   "2001:7f8:1e:6::11"
+  ],
+  "IPv4": "188.120.127.11",
+  "IPv6": "2001:7f8:1e:6::11",
+  "city": "Belgrade",
+  "url": "http://ndt-iupui-mlab1-beg01.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-beg01.mlab-oti.measurement-lab.org",
+  "site": "beg01",
+  "country": "RS",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 44.8216,
+  "longitude": 20.2921
+ },
+ {
+  "ip": [
+   "209.170.91.165",
+   "2001:2030:0:42::165"
+  ],
+  "IPv4": "209.170.91.165",
+  "IPv6": "2001:2030:0:42::165",
+  "city": "Atlanta",
+  "url": "http://ndt-iupui-mlab3-atl07.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-atl07.mlab-oti.measurement-lab.org",
+  "site": "atl07",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 33.6367,
+  "longitude": -84.4281
+ },
+ {
+  "ip": [
+   "125.18.112.101",
+   "2404:a800:2000:217::101"
+  ],
+  "IPv4": "125.18.112.101",
+  "IPv6": "2404:a800:2000:217::101",
+  "city": "Mumbai",
+  "url": "http://ndt-iupui-mlab3-bom01.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-bom01.mlab-oti.measurement-lab.org",
+  "site": "bom01",
+  "country": "IN",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 19.0886,
+  "longitude": 72.8681
+ },
+ {
+  "ip": [
+   "61.246.223.24"
+  ],
+  "IPv4": "61.246.223.24",
+  "IPv6": "",
+  "city": "New Delhi",
+  "url": "http://ndt-iupui-mlab2-del02.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-del02.mlab-oti.measurement-lab.org",
+  "site": "del02",
+  "country": "IN",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 28.5562,
+  "longitude": 77.1
+ },
+ {
+  "ip": [
+   "77.67.115.11",
+   "2001:668:1f:62::11"
+  ],
+  "IPv4": "77.67.115.11",
+  "IPv6": "2001:668:1f:62::11",
+  "city": "Milan",
+  "url": "http://ndt-iupui-mlab1-mil03.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-mil03.mlab-oti.measurement-lab.org",
+  "site": "mil03",
+  "country": "IT",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 45.464,
+  "longitude": 9.1916
+ },
+ {
+  "ip": [
+   "213.242.86.88",
+   "2001:4c08:2003:44::88"
+  ],
+  "IPv4": "213.242.86.88",
+  "IPv6": "2001:4c08:2003:44::88",
+  "city": "Stockholm",
+  "url": "http://ndt-iupui-mlab2-arn03.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-arn03.mlab-oti.measurement-lab.org",
+  "site": "arn03",
+  "country": "SE",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 59.6519,
+  "longitude": 17.9186
+ },
+ {
+  "ip": [
+   "128.177.119.216",
+   "2001:438:fffd:2b::216"
+  ],
+  "IPv4": "128.177.119.216",
+  "IPv6": "2001:438:fffd:2b::216",
+  "city": "New York",
+  "url": "http://ndt-iupui-mlab2-lga06.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-lga06.mlab-oti.measurement-lab.org",
+  "site": "lga06",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 40.7667,
+  "longitude": -73.8667
+ },
+ {
+  "ip": [
+   "80.239.222.88"
+  ],
+  "IPv4": "80.239.222.88",
+  "IPv6": "",
+  "city": "Paris",
+  "url": "http://ndt-iupui-mlab2-par03.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-par03.mlab-oti.measurement-lab.org",
+  "site": "par03",
+  "country": "FR",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 48.8584,
+  "longitude": 2.349
+ },
+ {
+  "ip": [
+   "128.177.109.203",
+   "2001:438:fffd:2e::203"
+  ],
+  "IPv4": "128.177.109.203",
+  "IPv6": "2001:438:fffd:2e::203",
+  "city": "Los Angeles",
+  "url": "http://ndt-iupui-mlab1-lax05.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-lax05.mlab-oti.measurement-lab.org",
+  "site": "lax05",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 33.9425,
+  "longitude": -118.4072
+ },
+ {
+  "ip": [
+   "77.67.114.152",
+   "2001:668:1f:60::152"
+  ],
+  "IPv4": "77.67.114.152",
+  "IPv6": "2001:668:1f:60::152",
+  "city": "Prague",
+  "url": "http://ndt-iupui-mlab2-prg04.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-prg04.mlab-oti.measurement-lab.org",
+  "site": "prg04",
+  "country": "CZ",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 50.0833,
+  "longitude": 14.4167
+ },
+ {
+  "ip": [
+   "195.89.145.37",
+   "2001:5002:100:21::37"
+  ],
+  "IPv4": "195.89.145.37",
+  "IPv6": "2001:5002:100:21::37",
+  "city": "Amsterdam",
+  "url": "http://ndt-iupui-mlab3-ams05.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-ams05.mlab-oti.measurement-lab.org",
+  "site": "ams05",
+  "country": "NL",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 52.3086,
+  "longitude": 4.7639
+ },
+ {
+  "ip": [
+   "4.71.254.139",
+   "2001:1900:3001:c::139"
+  ],
+  "IPv4": "4.71.254.139",
+  "IPv6": "2001:1900:3001:c::139",
+  "city": "Atlanta",
+  "url": "http://ndt-iupui-mlab1-atl08.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-atl08.mlab-oti.measurement-lab.org",
+  "site": "atl08",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 33.6367,
+  "longitude": -84.4281
+ },
+ {
+  "ip": [
+   "209.170.119.152",
+   "2001:2030:0:1f::152"
+  ],
+  "IPv4": "209.170.119.152",
+  "IPv6": "2001:2030:0:1f::152",
+  "city": "Dallas",
+  "url": "http://ndt-iupui-mlab2-dfw07.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-dfw07.mlab-oti.measurement-lab.org",
+  "site": "dfw07",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 32.8969,
+  "longitude": -97.0381
+ },
+ {
+  "ip": [
+   "173.205.4.88",
+   "2001:668:1f:22::88"
+  ],
+  "IPv4": "173.205.4.88",
+  "IPv6": "2001:668:1f:22::88",
+  "city": "New York",
+  "url": "http://ndt-iupui-mlab2-lga04.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-lga04.mlab-oti.measurement-lab.org",
+  "site": "lga04",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 40.7667,
+  "longitude": -73.8667
+ },
+ {
+  "ip": [
+   "38.98.51.11",
+   "2001:550:6800::11"
+  ],
+  "IPv4": "38.98.51.11",
+  "IPv6": "2001:550:6800::11",
+  "city": "Los Angeles",
+  "url": "http://ndt-iupui-mlab1-lax06.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-lax06.mlab-oti.measurement-lab.org",
+  "site": "lax06",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 33.9425,
+  "longitude": -118.4072
+ },
+ {
+  "ip": [
+   "38.109.21.37",
+   "2001:550:6c01::37"
+  ],
+  "IPv4": "38.109.21.37",
+  "IPv6": "2001:550:6c01::37",
+  "city": "Miami",
+  "url": "http://ndt-iupui-mlab3-mia02.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-mia02.mlab-oti.measurement-lab.org",
+  "site": "mia02",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 25.7833,
+  "longitude": -80.2667
+ },
+ {
+  "ip": [
+   "163.7.129.101",
+   "2404:138:4009:1::101"
+  ],
+  "IPv4": "163.7.129.101",
+  "IPv6": "2404:138:4009:1::101",
+  "city": "Wellington",
+  "url": "http://ndt-iupui-mlab3-wlg02.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-wlg02.mlab-oti.measurement-lab.org",
+  "site": "wlg02",
+  "country": "NZ",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": -41.3272,
+  "longitude": 174.805
+ },
+ {
+  "ip": [
+   "66.198.10.139",
+   "2001:5a0:3c03::139"
+  ],
+  "IPv4": "66.198.10.139",
+  "IPv6": "2001:5a0:3c03::139",
+  "city": "Washington",
+  "url": "http://ndt-iupui-mlab1-iad03.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-iad03.mlab-oti.measurement-lab.org",
+  "site": "iad03",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 38.9444,
+  "longitude": -77.4558
+ },
+ {
+  "ip": [
+   "80.239.170.203",
+   "2001:2030:33::203"
+  ],
+  "IPv4": "80.239.170.203",
+  "IPv6": "2001:2030:33::203",
+  "city": "London",
+  "url": "http://ndt-iupui-mlab1-lhr02.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-lhr02.mlab-oti.measurement-lab.org",
+  "site": "lhr02",
+  "country": "GB",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 51.4697,
+  "longitude": -0.4514
+ },
+ {
+  "ip": [
+   "213.242.96.152",
+   "2001:4c08:2003:3e::152"
+  ],
+  "IPv4": "213.242.96.152",
+  "IPv6": "2001:4c08:2003:3e::152",
+  "city": "Madrid",
+  "url": "http://ndt-iupui-mlab2-mad02.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-mad02.mlab-oti.measurement-lab.org",
+  "site": "mad02",
+  "country": "ES",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 40.4667,
+  "longitude": -3.5667
+ },
+ {
+  "ip": [
+   "64.86.148.139",
+   "2001:5a0:4300::139"
+  ],
+  "IPv4": "64.86.148.139",
+  "IPv6": "2001:5a0:4300::139",
+  "city": "New York",
+  "url": "http://ndt-iupui-mlab1-lga03.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-lga03.mlab-oti.measurement-lab.org",
+  "site": "lga03",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 40.7667,
+  "longitude": -73.8667
+ },
+ {
+  "ip": [
+   "63.243.240.75",
+   "2001:5a0:3a01::75"
+  ],
+  "IPv4": "63.243.240.75",
+  "IPv6": "2001:5a0:3a01::75",
+  "city": "Los Angeles",
+  "url": "http://ndt-iupui-mlab1-lax02.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-lax02.mlab-oti.measurement-lab.org",
+  "site": "lax02",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 33.9425,
+  "longitude": -118.4072
+ },
+ {
+  "ip": [
+   "195.122.159.139",
+   "2001:4c08:2003:42::139"
+  ],
+  "IPv4": "195.122.159.139",
+  "IPv6": "2001:4c08:2003:42::139",
+  "city": "Prague",
+  "url": "http://ndt-iupui-mlab1-prg02.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-prg02.mlab-oti.measurement-lab.org",
+  "site": "prg02",
+  "country": "CZ",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 50.0833,
+  "longitude": 14.4167
+ },
+ {
+  "ip": [
+   "63.243.224.37",
+   "2001:5a0:4400::37"
+  ],
+  "IPv4": "63.243.224.37",
+  "IPv6": "2001:5a0:4400::37",
+  "city": "Seattle",
+  "url": "http://ndt-iupui-mlab3-sea02.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-sea02.mlab-oti.measurement-lab.org",
+  "site": "sea02",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 47.4489,
+  "longitude": -122.3094
+ },
+ {
+  "ip": [
+   "177.136.80.229",
+   "2804:680:15:1::229"
+  ],
+  "IPv4": "177.136.80.229",
+  "IPv6": "2804:680:15:1::229",
+  "city": "Sao Paulo",
+  "url": "http://ndt-iupui-mlab3-gru02.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-gru02.mlab-oti.measurement-lab.org",
+  "site": "gru02",
+  "country": "BR",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": -23.4305,
+  "longitude": -46.473
+ },
+ {
+  "ip": [
+   "4.15.166.24",
+   "2001:1900:2100:15::24"
+  ],
+  "IPv4": "4.15.166.24",
+  "IPv6": "2001:1900:2100:15::24",
+  "city": "Los Angeles",
+  "url": "http://ndt-iupui-mlab2-lax04.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-lax04.mlab-oti.measurement-lab.org",
+  "site": "lax04",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 33.9425,
+  "longitude": -118.4072
+ },
+ {
+  "ip": [
+   "128.177.109.152",
+   "2001:438:fffd:2d::152"
+  ],
+  "IPv4": "128.177.109.152",
+  "IPv6": "2001:438:fffd:2d::152",
+  "city": "San Francisco Bay Area",
+  "url": "http://ndt-iupui-mlab2-nuq06.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-nuq06.mlab-oti.measurement-lab.org",
+  "site": "nuq06",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 37.3833,
+  "longitude": -122.0667
+ },
+ {
+  "ip": [
+   "4.34.58.24",
+   "2001:1900:2200:49::24"
+  ],
+  "IPv4": "4.34.58.24",
+  "IPv6": "2001:1900:2200:49::24",
+  "city": "Denver",
+  "url": "http://ndt-iupui-mlab2-den02.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-den02.mlab-oti.measurement-lab.org",
+  "site": "den02",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 39.8561,
+  "longitude": -104.6737
+ },
+ {
+  "ip": [
+   "193.142.125.75",
+   "2a01:3e0:1b01:2::75"
+  ],
+  "IPv4": "193.142.125.75",
+  "IPv6": "2a01:3e0:1b01:2::75",
+  "city": "Stockholm",
+  "url": "http://ndt-iupui-mlab1-arn06.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-arn06.mlab-oti.measurement-lab.org",
+  "site": "arn06",
+  "country": "SE",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 59.6519,
+  "longitude": 17.9186
+ },
+ {
+  "ip": [
+   "184.105.55.101",
+   "2001:470:1:81f::101"
+  ],
+  "IPv4": "184.105.55.101",
+  "IPv6": "2001:470:1:81f::101",
+  "city": "Winnipeg",
+  "url": "http://ndt-iupui-mlab3-ywg01.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-ywg01.mlab-oti.measurement-lab.org",
+  "site": "ywg01",
+  "country": "CA",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 49.906,
+  "longitude": -97.2373
+ },
+ {
+  "ip": [
+   "173.205.3.165",
+   "2001:668:1f:1f::165"
+  ],
+  "IPv4": "173.205.3.165",
+  "IPv6": "2001:668:1f:1f::165",
+  "city": "Miami",
+  "url": "http://ndt-iupui-mlab3-mia04.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-mia04.mlab-oti.measurement-lab.org",
+  "site": "mia04",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 25.7833,
+  "longitude": -80.2667
+ },
+ {
+  "ip": [
+   "77.67.114.203",
+   "2001:668:1f:61::203"
+  ],
+  "IPv4": "77.67.114.203",
+  "IPv6": "2001:668:1f:61::203",
+  "city": "London",
+  "url": "http://ndt-iupui-mlab1-lhr03.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-lhr03.mlab-oti.measurement-lab.org",
+  "site": "lhr03",
+  "country": "GB",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 51.4697,
+  "longitude": -0.4514
+ },
+ {
+  "ip": [
+   "80.239.199.24",
+   "2001:2030:2f::24"
+  ],
+  "IPv4": "80.239.199.24",
+  "IPv6": "2001:2030:2f::24",
+  "city": "Frankfurt",
+  "url": "http://ndt-iupui-mlab2-fra01.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab2-fra01.mlab-oti.measurement-lab.org",
+  "site": "fra01",
+  "country": "DE",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 50.0379,
+  "longitude": 8.5622
+ },
+ {
+  "ip": [
+   "66.110.73.37",
+   "2001:5a0:3801::37"
+  ],
+  "IPv4": "66.110.73.37",
+  "IPv6": "2001:5a0:3801::37",
+  "city": "Miami",
+  "url": "http://ndt-iupui-mlab3-mia03.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-mia03.mlab-oti.measurement-lab.org",
+  "site": "mia03",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 25.7833,
+  "longitude": -80.2667
+ },
+ {
+  "ip": [
+   "64.235.254.37"
+  ],
+  "IPv4": "64.235.254.37",
+  "IPv6": "",
+  "city": "Hong Kong",
+  "url": "http://ndt-iupui-mlab3-hkg02.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-hkg02.mlab-oti.measurement-lab.org",
+  "site": "hkg02",
+  "country": "HK",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 22.3089,
+  "longitude": 113.9144
+ },
+ {
+  "ip": [
+   "4.35.238.203",
+   "2001:1900:2200:46::203"
+  ],
+  "IPv4": "4.35.238.203",
+  "IPv6": "2001:1900:2200:46::203",
+  "city": "Washington",
+  "url": "http://ndt-iupui-mlab1-iad05.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-iad05.mlab-oti.measurement-lab.org",
+  "site": "iad05",
+  "country": "US",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 38.9444,
+  "longitude": -77.4558
+ },
+ {
+  "ip": [
+   "194.116.85.229",
+   "2a07:1ec0:775::229"
+  ],
+  "IPv4": "194.116.85.229",
+  "IPv6": "2a07:1ec0:775::229",
+  "city": "Turin",
+  "url": "http://ndt-iupui-mlab3-trn02.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-trn02.mlab-oti.measurement-lab.org",
+  "site": "trn02",
+  "country": "IT",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 45.2008,
+  "longitude": 7.6497
+ },
+ {
+  "ip": [
+   "62.67.198.229",
+   "2001:4c08:2003:40::229"
+  ],
+  "IPv4": "62.67.198.229",
+  "IPv6": "2001:4c08:2003:40::229",
+  "city": "Frankfurt",
+  "url": "http://ndt-iupui-mlab3-fra04.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-fra04.mlab-oti.measurement-lab.org",
+  "site": "fra04",
+  "country": "DE",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 50.0379,
+  "longitude": 8.5622
+ },
+ {
+  "ip": [
+   "193.142.125.37",
+   "2a01:3e0:ff20:401::37"
+  ],
+  "IPv4": "193.142.125.37",
+  "IPv6": "2a01:3e0:ff20:401::37",
+  "city": "Frankfurt",
+  "url": "http://ndt-iupui-mlab3-fra05.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab3-fra05.mlab-oti.measurement-lab.org",
+  "site": "fra05",
+  "country": "DE",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 50.0379,
+  "longitude": 8.5622
+ },
+ {
+  "ip": [
+   "195.89.147.203",
+   "2001:5003:300:e::203"
+  ],
+  "IPv4": "195.89.147.203",
+  "IPv6": "2001:5003:300:e::203",
+  "city": "Paris",
+  "url": "http://ndt-iupui-mlab1-par05.mlab-oti.measurement-lab.org:7123",
+  "fqdn": "ndt-iupui-mlab1-par05.mlab-oti.measurement-lab.org",
+  "site": "par05",
+  "country": "FR",
+  "version": [
+   "ndt",
+   "ndt_ssl",
+   "ndt7"
+  ],
+  "latitude": 48.8584,
+  "longitude": 2.349
+ }
+]

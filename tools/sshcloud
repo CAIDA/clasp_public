@@ -1,0 +1,14 @@
+#!/usr/local/bin/bash
+#usage: sshcloud host_alias <location of keyfile>
+#HNAME=`grep "$1[[:blank:]]" /scratch/cloudspeedtest/cloudhosts|awk '{print $2}'`
+#KEYFILE="/scratch/webspeedtest/cloud/speedtest_id_rsa"
+#if [[ -v $2 ]]; then
+#    KEYFILE=$2
+#fi
+#if [[ $HNAME!="" ]]; then
+#    echo "SSH $HNAME"
+#    ssh -i $KEYFILE  ubuntu@$HNAME
+#else
+#    echo "Host alias not found"
+#fi
+./sshgeneral $1 /scratch/webspeedtest/cloud/speedtest_id_rsa /scratch/cloudspeedtest/cloudhosts ubuntu

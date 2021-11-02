@@ -1,0 +1,73 @@
+vim-go
+gcp-central1-3|203.187.255.90|18207|ookla|Bangalore - YOU Broadband India Pvt. Ltd.
+gcp-central1-3|201.95.254.127|27699|ookla|São Paulo - Vivo SPPD
+gcp-central1-3|160.86.253.23|2527|ookla|Kyoto - Local24 Inc.,
+gcp-central1-3|175.100.95.90|38623|ookla|Phnom Penh - MetfonePNP for App and Web
+gcp-central1-3|202.75.250.35|136167|ookla|Macau - SPEEDTEST-MO
+gcp-central1-3|118.143.110.58|9304|ookla|Shatin - HGC Global Communications Limited
+gcp-central1-3|45.63.2.66|20473|ookla|Matawan, NJ - Vultr
+gcp-central1-3|201.96.126.225|8151|ookla|Chihuahua - INFINITUM
+gcp-central1-3|196.202.252.34|36907|ookla|Luanda - TVCABO Angola
+gcp-central1-3|117.131.215.238|38019|ookla|Tianjin - China Mobile TianJin-5G
+gcp-central1-3|160.86.253.23|2527|ookla|Kyoto - Local24 Inc.,
+gcp-central1-3|2.113.55.165|3269|ookla|Udine - Telecom Italia S.p.A.
+gcp-central1-3|66.45.242.18|19318|ookla|Secaucus, NJ - Interserver, inc
+gcp-central1-3|93.20.126.204|15557|ookla|Paris - SFR
+gcp-central1-3|191.241.32.134|263665|ookla|Caucaia - Tecnet Provedor de Acessos
+gcp-central1-3|189.36.192.189|28308|ookla|Fortaleza - WayNet
+gcp-central1-3|138.122.80.47|28598|ookla|Fortaleza - Mob Telecom
+gcp-central1-3|170.84.92.42|264991|ookla|São Miguel do Tapuio - Rede Compunet
+gcp-east1-10|177.38.239.18|52760|ookla|Jacarezinho - Nova Fibra Telecom
+gcp-east1-10|80.187.136.31|3320|ookla|Frankfurt Am Main - Deutsche Telekom Technik GmbH
+gcp-east1-10|109.241.239.66|29314|ookla|Warszawa - Vectra S.A
+gcp-east1-10|190.80.0.36|19863|ookla|Georgetown - GTT+
+gcp-east1-10|71.93.249.42|20115|ookla|Slidell, LA - Spectrum
+gcp-east1-10|112.198.111.39|132199|ookla|Imus - Globe Telecom
+gcp-east1-10|86.127.118.246|8708|ookla|Oradea - RCS & RDS
+gcp-east1-10|81.196.122.10|8708|ookla|Timisoara - RCS & RDS
+gcp-east1-10|196.28.56.14|10396|ookla|Bayamon - Claro Puerto Rico
+gcp-east1-10|86.123.175.221|8708|ookla|Brasov - Ciubi.net
+gcp-east1-10|187.157.253.185|8151|ookla|Jalapa - INFINITUM
+gcp-east1-10|198.142.236.4|4804|ookla|Sydney - 'Yes' Optus
+gcp-east1-10|62.103.146.68|6799|ookla|Athens - OTE S.A.
+gcp-east1-10|69.241.94.10|7922|ookla|Independence, MO - Comcast
+gcp-east1-10|139.5.241.22|133982|ookla|New Delhi - Excitel
+gcp-east1-10|62.39.228.2|15557|ookla|Trappes - SFR
+gcp-east1-10|79.170.52.30|43766|ookla|Dammam - Zain KSA
+gcp-east1-10|168.232.45.21|264949|ookla|Natal - Meganet
+gcp-asianortheast1-1|195.191.201.98|50643|ookla|Lisichansk - LuReNet
+gcp-asianortheast1-1|198.166.40.25|852|ookla|Edmonton, AB - Telus
+gcp-asianortheast1-1|89.143.198.181|5603|ookla|Ljubljana - Telekom Slovenije, d.d.
+gcp-asianortheast1-1|207.219.22.171|852|ookla|Toronto, ON - TELUS
+gcp-asianortheast1-1|202.151.87.131|9246|ookla|Tumon - GTA
+gcp-asianortheast1-1|184.182.243.145|22773|ookla|Orange County, CA - Cox - Orange County
+gcp-asianortheast1-1|118.98.83.42|17974|ookla|Mataram - PT. Telekomunikasi Indonesia
+gcp-asianortheast1-1|118.98.104.234|7713|ookla|Semarang - PT. Telekomunikasi Indonesia
+gcp-asianortheast1-1|122.169.240.154|24560|ookla|Hyderabad - Airtel Broadband
+gcp-asianortheast1-1|122.160.129.138|24560|ookla|Delhi - Airtel Broadband
+gcp-asianortheast1-1|61.191.111.11|4134|ookla|Hefei - China Telecom AnHui 5G
+gcp-asianortheast1-1|122.229.136.10|4134|ookla|Hangzhou - China Telecom ZheJiang Branch
+gcp-asianortheast1-1|109.126.0.10|42038|ookla|Vladivostok - Vladlink
+gcp-asianortheast1-1|109.110.38.6|196949|ookla|Vladivostok - Podryad
+gcp-asianortheast1-1|212.220.9.219|12389|ookla|Novy Urengoy - Rostelecom
+gcp-asianortheast1-1|87.103.236.58|12389|ookla|Chita - Rostelecom
+gcp-asianortheast1-1|82.178.33.35|8529|ookla|Muscat - Oman Telecom
+gcp-asianortheast1-1|221.179.46.218|56040|ookla|Guangzhou - China Mobile,Guangdong
+gcp-euwest1-1|187.130.190.73|8151|ookla|Guadalajara - INFINITUM
+gcp-euwest1-1|181.115.1.114|14754|ookla|Tegucigalpa - Claro Honduras
+gcp-euwest1-1|144.130.167.198|1221|ookla|Canberra - Telstra
+gcp-euwest1-1|144.130.165.118|1221|ookla|Chatswood - Telstra
+gcp-euwest1-1|201.95.254.127|27699|ookla|São Paulo - Vivo SPPD
+gcp-euwest1-1|200.32.193.2|10269|ookla|Belize City - Belize Telemedia Limited
+gcp-euwest1-1|213.184.238.32|31143|ookla|Minsk - JLLC "COSMOS TV"
+gcp-euwest1-1|185.38.15.92|58073|ookla|Haarlem - YISP B.V.
+gcp-euwest1-1|80.12.60.250|3215|ookla|Marseille - ORANGE FRANCE
+gcp-euwest1-1|203.39.103.129|1221|ookla|Brisbane - Telstra
+gcp-euwest1-1|198.142.236.4|4804|ookla|Sydney - 'Yes' Optus
+gcp-euwest1-1|144.130.165.118|1221|ookla|Chatswood - Telstra
+gcp-euwest1-1|103.211.23.158|135872|ookla|Golaghata - GTPL KCBPL Broadband Pvt Ltd.
+gcp-euwest1-1|103.2.239.36|45194|ookla|Mumbai - Joister Broadband
+gcp-euwest1-1|203.187.215.35|18207|ookla|Pune - YOU Broadband India Pvt. Ltd.
+gcp-euwest1-1|103.88.221.254|136334|ookla|Mumbai - Vortex Netsol Private Limited
+gcp-euwest1-1|203.192.198.234|17665|ookla|Mumbai - OneBroadband
+gcp-euwest1-1|116.74.100.7|17488|ookla|Surat - HATHWAY CABLE & DATACOM LTD.
