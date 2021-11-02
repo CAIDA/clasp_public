@@ -1,0 +1,49 @@
+Summary:
+This folder contains virtual machine management code for aws/azure/gcp.
+
+AWS Modules:
+
+a.Directory Structure:
+aws/aws_download_bdrmap_trace.go
+aws/ec2/ec2_create.go
+aws/ec2/ec2_start_stop.go
+aws/ec2/ec2utils/ec2utils.go
+
+b. Usage
+
+I.
+aws_download_bdrmap_trace.go: go run aws_download_bdrmap_trace.go
+This program will automatically download all bdrmap and traces into /scratch/cloudspeedtest/result directory
+
+II.
+ec2_create.go: go run ec2_create.go <path_to_json_config_file> <path_to_DB_config_file>
+This program will create an ec2 instance based on config file provided. A local mongo DB file is also needed for
+update local db with the newly created vm.
+Example vm config file named config.json is provided.
+Example db config file named vmconfig.json is provided.
+
+Exported Function: 
+func CreateEC2Instance(sess *session.Session, config createVMInput, pathToDBConfig string)
+
+III.
+ec2_start_stop.go: go run ec2_start_stop.go <start/stop> <virtual_machine_name>
+This program will start or stop a virtual machine with the name user provided.
+
+Exported Function:
+func StartInstances(svc *ec2.EC2, instanceID string)
+func StopInstances(svc *ec2.EC2, instanceID string)
+
+IV.
+ec2utils.go
+This program contains utility functions for retrieving/storing information related to ec2 services.
+
+Exported Function
+func HandleError(err error)
+func GetAvailableZones(svc *ec2.EC2, zoneNames []*string, displayAll bool, filters []*ec2.Filter) []string
+func GetAllInstances(svc *ec2.EC2) []string
+func GetZoneCount(svc *ec2.EC2) map[string]int
+func GetTagOfAllInstances(svc *ec2.EC2, tag string) []ec2.TagDescription
+func CreateMapWithTagDesc(tags []ec2.TagDescription) map[string]string
+func UpdateLocalVMInfo(svc *ec2.EC2, dbConfigPath string)
+
+
