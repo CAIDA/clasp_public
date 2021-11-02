@@ -1,0 +1,2 @@
+0 0 * * * /usr/bin/flock -w 0 /tmp/bdrlock bash outdir/softwares/runtoposcan.bash outdir/datafiles results/bdrmap >lastbdrlog 2>&1
+2 * * * * /usr/bin/flock -w 0 /tmp/sptestlock bash outdir/softwares/speedtest/runtestround.bash >lastoutput 2>&1

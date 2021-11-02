@@ -1,0 +1,640 @@
+aws-ca-6|206.223.116.122|15305|ookla|Boise, ID - Syringa Networks
+aws-og-6|52.95.54.157|3356|ndt|ndt.iupui.mlab3.dfw03.measurement-lab.org
+aws-og-8|99.82.179.13|19170|ookla|Steelville, MO - Meramec Interactive Services Network
+aws-ca-2|99.82.176.227|20115|ookla|San Luis Obispo, CA - Spectrum
+aws-ca-1|173.241.129.141|36007|ookla|New Jersey, NJ - KamaTera INC
+aws-vg-7|99.82.178.111|33363|ookla|Tampa, FL - Spectrum
+aws-vg-6|206.126.238.78|397005|ookla|Zion Crossroads, VA - Firefly Fiber
+aws-vg-1|52.46.166.19|46450|ookla|Ashburn, VA - Pilot
+aws-og-1|206.81.81.77|53828|ookla|Denver, CO - Nitel
+aws-oh-10|162.252.69.214|7925|ookla|Morgantown, WV - WVNET
+aws-vg-7|99.82.183.115|33363|ookla|Livonia, MI - Spectrum
+aws-oh-4|206.223.119.108|32181|ookla|Arlington Heights, IL - GigeNET
+aws-oh-1|52.93.239.98|7922|comcast|Secaucus, NJ
+aws-oh-2|52.95.2.97|1239|ookla|Springfield, MA - Sprint
+aws-oh-7|52.93.239.88|55077|ookla|Canton, OH - LightSpeed Technologies
+aws-ca-4|150.222.234.48|23404|ookla|Jonesboro, AR - Ritter Communications
+aws-ca-2|206.223.123.38|12989 33438|ookla|Los Angeles, CA - Netprotect
+aws-og-3|52.95.55.198|8025|ookla|Calera, OK - Cherokee Communications
+aws-oh-11|99.82.179.233|62943|ookla|Equality, IL - Shawnee Communications
+aws-vg-6|206.126.236.36|13760|ookla|Atlanta, GA - Southern Light, LLC
+aws-og-2|129.250.193.9|395662|ookla|Kansas City, MO - Conexon
+aws-oh-11|52.93.239.34|209|ookla|Duluth, MN - CenturyLink
+aws-oh-7|52.93.239.86|209|ookla|Dothan, AL - CenturyLink
+aws-oh-8|52.93.239.0|209|ookla|Pleasant Grove, UT - Broadlink Networks
+aws-vg-8|52.93.61.135|11232|ookla|Sioux Falls, SD - Midco
+aws-vg-3|4.16.72.9|3356|ndt|ndt.iupui.mlab1.lga05.measurement-lab.org
+aws-oh-4|52.93.239.94|20018|ookla|Overton, NV - MVDSL
+aws-oh-1|52.95.2.125|1239|ookla|Elkridge, MD - Sprint
+aws-vg-8|52.93.61.119|16904|ookla|Perham, MN - Arvig
+aws-oh-11|52.95.2.121|1239|ookla|Anaheim, CA - Sprint
+aws-vg-4|64.125.13.212|22549|ookla|Tampa, FL - Tampa Bay Fiber
+aws-vg-5|150.222.76.64|7922|comcast|Area IV, IL
+aws-ca-5|52.93.141.160|25649|ookla|Manteca, CA - Ayera Technologies, Inc.
+aws-oh-3|66.208.233.17|19255|ookla|Chicago, IL - Metapeer
+aws-ca-2|65.113.42.245|209|ookla|Billings, MT - CenturyLink
+aws-vg-7|99.82.183.7|40237|ookla|Chapel Hill, TN - United Communications [TN]
+aws-oh-4|62.115.188.72|31877|ookla|Atlanta, GA - Georgia Public Web, Inc.
+aws-vg-5|198.32.118.45|19318|ookla|Secaucus, NJ - Interserver, inc
+aws-og-8|216.218.212.74|36687 40700|ookla|Portland, OR - Stephouse Networks
+aws-vg-7|4.15.212.65|15065|ookla|Potsdam, NY - Slic Network Solutions
+aws-og-4|52.95.54.79|209|ookla|Seattle, WA - CenturyLink
+aws-vg-7|150.222.76.60|7922|comcast|Twin Cities, MN
+aws-vg-7|206.126.238.19|2711|ookla|Columbia, SC - Spirit Communications
+aws-vg-5|52.93.62.133|600|ookla|Cedarville, OH - Cedarville University
+aws-ca-3|206.223.116.195|16591|ookla|Gurley, AL - Sardis Telecom Gurley
+aws-og-1|173.205.58.85|3257|ndt|ndt.iupui.mlab3.sea03.measurement-lab.org
+aws-og-7|4.16.146.89|3356|ndt|ndt.iupui.mlab3.den02.measurement-lab.org
+aws-ca-1|52.95.217.127|21623|ookla|San Diego, CA - Spacelink
+aws-vg-8|54.239.105.155|16433|ookla|Lafayette, TN - North Central Telephone Coop
+aws-oh-11|206.126.236.8|11404|ookla|Port Orchard, WA - Wave
+aws-vg-5|206.126.238.33|394141|ookla|Detroit, MI - Rocket Fiber
+aws-oh-4|206.41.108.45|23089|ookla|Boca Raton, FL - Hotwire Fision
+aws-og-9|206.81.80.149|35913|ookla|Los Angeles, CA - DediPath
+aws-og-5|52.95.54.215|209|ookla|Spokane, WA - CenturyLink
+aws-og-6|206.81.80.108|19518|ookla|Seattle, WA - Rock Island Communications
+aws-ca-3|206.223.116.199|11796|ookla|Eau Claire, WI - Airstream Communications
+aws-oh-10|150.222.71.14|7922|comcast|Foxboro, MA
+aws-oh-6|99.82.178.109|33363|ookla|Tampa, FL - Spectrum
+aws-oh-3|206.126.236.236|2711|ookla|Charlotte, NC - Spirit Communications
+aws-og-6|157.238.179.93|395354|ookla|Los Angeles, CA - Starry, Inc.
+aws-oh-6|52.95.2.155|209|ookla|Clermont, FL - BT Services
+aws-oh-6|52.95.2.7|14860|ookla|Laredo, TX - Smartcom Telephone, LLC
+aws-oh-6|52.95.3.37|7922|comcast|Richmond, VA
+aws-ca-5|52.95.219.159|10700|ookla|Leland, MS - TecInfo Communications, LLC
+aws-oh-8|213.248.76.188|1299|ndt|ndt.iupui.mlab3.atl07.measurement-lab.org
+aws-ca-5|206.51.46.23|14977|ookla|Gillette, WY - Campbell County School District
+aws-ca-6|4.68.39.17|15221|ookla|Colorado Springs, CO - StratusIQ
+aws-oh-6|52.93.239.72|1239|ookla|Akron, OH - Sprint
+aws-og-1|52.95.53.232|1299|ndt|ndt.iupui.mlab1.dfw07.measurement-lab.org
+aws-vg-8|50.208.232.29|7922|comcast|Woodstock, GA
+aws-oh-4|52.95.3.39|25921|ookla|Lafayette, LA - LUS Fiber
+aws-ca-2|54.240.243.97|29838|ookla|New York, NY - Atlantic Metro
+aws-oh-5|52.93.243.59|20115|ookla|Fort Worth, TX - Spectrum
+aws-og-2|52.93.65.60|22909|ookla|Waverly, TN - Fast Forward Broadband
+aws-oh-8|52.93.239.70|7922|comcast|Little Rock, AR
+aws-og-6|52.95.54.113|209|ookla|Eugene, OR - CenturyLink
+aws-og-5|52.95.40.47|7922|comcast|Portland, OR
+aws-oh-11|173.205.44.241|3257|ndt|ndt.iupui.mlab1.ord04.measurement-lab.org
+aws-vg-1|206.126.237.26|19437|ookla|Ashburn, VA - Sneaker Server
+aws-vg-3|206.126.236.7|393950|ookla|Washington, DC - Xiber LLC
+aws-vg-5|209.51.161.114|16942|ookla|Floyd, VA - Citizens Telephone Cooperative
+aws-oh-11|99.82.176.247|11351|ookla|Syracuse, NY - Spectrum
+aws-oh-10|52.95.217.75|19108|ookla|Parkersburg, WV - Suddenlink Communications LLC
+aws-ca-1|198.32.176.59|35913|ookla|Los Angeles, CA - DediPath
+aws-oh-2|52.95.3.5|7018|ookla|Tucker, GA - AT&T
+aws-oh-5|52.93.239.52|12097|ookla|Massillon, OH - MCTV
+aws-vg-7|52.93.61.87|11232|ookla|Devils Lake, ND - Midco
+aws-ca-6|52.93.141.162|33509|ookla|Estacada, OR - Reliance Connects
+aws-vg-2|206.82.104.140|27257|ookla|Garden City, NY - Webair.com
+aws-oh-11|206.223.119.244|4581|ookla|Columbia, MO - Socket Telecom, LLC
+aws-oh-2|52.93.239.100|6461|ndt|ndt.iupui.mlab3.mia05.measurement-lab.org
+aws-vg-1|150.222.205.82|20115|ookla|Kearney, NE - Spectrum
+aws-vg-5|99.82.178.165|4922|ookla|Ashburn, VA - Shentel Service Company
+aws-oh-7|52.93.239.14|7922|ookla|Richmond, VA - Comcast
+aws-vg-7|74.43.94.14|5650|ookla|Wallingford, CT - Frontier
+aws-oh-11|24.214.1.69|394109|ookla|Tampa, FL - CFH CABLE INC
+aws-vg-2|198.32.160.110|22302|ookla|Albany, NY - INOC Data Centers
+aws-vg-8|54.239.105.145|23089|ookla|Atlanta, GA - Hotwire Fision
+aws-ca-3|206.223.117.85|32354|ookla|San Francisco, CA - Unwired
+aws-ca-2|150.222.234.44|393436|ookla|Monte Vista, CO - Ciello, Inc.
+aws-vg-6|206.126.237.117|19009|ookla|Cleveland, OH - Everstream
+aws-vg-2|54.239.105.157|23367|ookla|Atlanta, GA - Genesis Adaptive Hosting, INC.
+aws-oh-2|52.93.61.25|16904|ookla|Perham, MN - Arvig
+aws-oh-5|52.95.217.59|7106|ookla|Wapakoneta, OH - CNI
+aws-oh-9|52.95.2.177|7922|comcast|Pittsburgh, PA
+aws-vg-6|206.126.238.1|54800|ookla|Laredo, TX - LISD
+aws-og-7|52.95.54.45|393869|ookla|Glenwood Springs, CO - Colorado Mountain College
+aws-ca-1|129.250.3.26|4922|ookla|Weston, WV - Shentel Service Company
+aws-og-1|150.222.136.50|7018|ookla|Seattle, WA - AT&T
+aws-oh-8|150.222.66.82|7922|comcast|Tallahassee, FL
+aws-ca-3|72.21.221.153|32890|ookla|Lake Point, UT - Beehive Broadband
+aws-og-1|24.27.236.56|7843|ookla|Centennial, CO - Spectrum
+aws-ca-1|206.223.116.37|33548|ookla|Fresno, CA - unWired Broadband Inc.
+aws-og-8|52.95.54.185|209|ookla|Albuquerque, NM - CenturyLink
+aws-oh-9|206.55.196.5|49544|ookla|Ashburn, VA - i3D.net
+aws-ca-4|206.223.116.196|63949|ookla|Fremont, CA - DevsWebDev
+aws-ca-6|150.222.234.38|6461|ndt|ndt.iupui.mlab3.nuq06.measurement-lab.org
+aws-ca-2|99.82.182.97|22773|ookla|San Diego, CA - Cox - San Diego
+aws-og-4|198.32.195.72|15305|ookla|Boise, ID - Syringa Networks
+aws-og-2|65.74.20.165|8047|ookla|Anchorage, AK - GCI - Anchorage
+aws-og-4|52.95.55.196|3356|ndt|ndt.iupui.mlab3.sea04.measurement-lab.org
+aws-og-7|198.32.195.120|13857|ookla|McMinnville, OR - OnlineNW
+aws-oh-8|150.222.205.80|20115|ookla|St Cloud, MN - Spectrum
+aws-oh-1|208.115.136.41|19310|ookla|Stanton, MI - Casair, Inc
+aws-vg-3|52.93.243.71|7018|ookla|Bartlesville, OK - Wake Wireless
+aws-oh-8|208.115.136.220|53828|ookla|Dallas, TX - Nitel
+aws-og-5|52.95.55.194|12282|ookla|Richmond, VT - Green Mountain Access
+aws-og-3|173.205.51.101|3257|ndt|ndt.iupui.mlab3.lax03.measurement-lab.org
+aws-ca-5|50.242.148.81|7922|ookla|San Francisco, CA - Comcast
+aws-ca-1|206.41.105.22|46562|ookla|Phoenix, AZ - Speedtest.net
+aws-oh-11|206.223.118.201|32281|ookla|Wiggins, CO - CCT
+aws-oh-7|52.93.239.116|17025|ookla|Baldwin City, KS - RG Fiber
+aws-vg-4|204.111.0.117|4922|ookla|Rocky Mount, VA - Shentel Service Company
+aws-oh-6|206.108.255.66|19184|ookla|Eau Claire, WI - UWEC
+aws-og-3|150.222.234.24|22773|ookla|New Orleans, LA - Cox - New Orleans
+aws-oh-1|150.222.76.68|7922|comcast|Area IV, IL
+aws-oh-1|52.95.1.123|2711|ookla|Walterboro, SC - Palmetto Rural Telephone Cooperative
+aws-oh-3|52.93.61.133|11232|ookla|Sioux Falls, SD - Midco
+aws-ca-4|99.82.176.225|20115|ookla|Reno, NV - Spectrum
+aws-og-8|52.95.54.11|209|ookla|Colorado Springs, CO - CenturyLink
+aws-vg-7|184.105.80.202|23316|ookla|Los Angeles, CA - Bel Air Internet LLC
+aws-oh-2|206.108.255.7|16904|ookla|Monticello, MN - Fibernet Monticello
+aws-oh-5|38.104.101.1|174|ookla|Chicago, IL - fdcservers.net
+aws-oh-11|52.93.239.112|7922|comcast|Augusta, GA
+aws-oh-8|206.126.236.47|6536|ookla|Bridgeport, WV - Citynet
+aws-og-4|52.95.40.95|7922|comcast|Portland, OR
+aws-og-3|206.81.81.224|394449|ookla|Ammon, ID - Fybercom Fiber Speed
+aws-oh-1|52.95.218.187|14103|ookla|Lansing, MI - ACD.net
+aws-og-7|52.95.54.249|209|ookla|Tucson, AZ - CenturyLink
+aws-oh-10|206.41.110.55|25787|ookla|Byesville, OH - Rowe Internet
+aws-ca-4|206.223.116.81|20392|ookla|Warren, PA - WestPAnet, Inc.
+aws-ca-1|206.223.117.192|5078|ookla|Tulsa, OK - OneNet
+aws-og-9|184.104.193.25|6994|ookla|San Francisco, CA - Fastmetrics Inc.
+aws-og-2|52.46.166.255|27017|ookla|Everett, WA - Frontier
+aws-og-8|206.81.81.145|19092|ookla|Belgrade, MT - The Global Net
+aws-oh-8|52.95.2.233|54329|ookla|Salt Lake City, UT - Sumo Fiber
+aws-vg-8|150.222.66.74|7922|comcast|Tallahassee, FL
+aws-og-2|52.95.216.109|32181|ookla|Los Angeles, CA - GigeNET
+aws-ca-2|99.82.178.79|1239|ookla|Anaheim, CA - Sprint
+aws-vg-3|52.93.243.79|20001|ookla|Los Angeles, CA - Spectrum
+aws-oh-5|52.46.167.213|30174|ookla|Dodge City, KS - United Telephone Association, Inc.
+aws-og-9|52.95.54.191|25842|ookla|Amherst, NY - Advance2000
+aws-ca-6|206.223.117.52|46276|ookla|Auburn, CA - Smarterbroadband, Inc
+aws-oh-10|52.93.239.74|209|ookla|Davenport, IA - CenturyLink
+aws-oh-7|52.93.239.58|7843|ookla|Centennial, CO - Spectrum
+aws-vg-6|206.108.255.54|15267|ookla|Moorhead, MN - 702 Communications
+aws-og-9|52.93.132.227|33152|ookla|Taos, NM - Kit Carson Internet
+aws-vg-6|206.126.236.214|57695|ookla|Ashburn, VA - ZeptoVM
+aws-oh-7|52.93.62.57|22320|ookla|Yellow Springs, OH - MVECA
+aws-oh-6|209.124.52.25|21527|ookla|Owosso, MI - Daystarr Communications
+aws-og-7|65.153.72.121|209|ookla|Clermont, FL - BT Services
+aws-og-9|52.95.54.83|209|ookla|Salt Lake City, UT - CenturyLink
+aws-vg-5|150.222.66.52|20115|ookla|Morganton, NC - CoMPAS
+aws-oh-2|52.93.239.110|20454|ookla|Phoenix, AZ - PhoenixNAP Global IT Services
+aws-ca-5|206.223.116.18|23089|ookla|Naples, FL - Hotwire Fision
+aws-og-9|206.81.80.199|11233|ookla|Hood River, OR - Gorge Networks
+aws-ca-3|66.208.229.29|7922|comcast|San Jose, CA
+aws-og-8|150.222.136.70|7018|ookla|San Antonio, TX - AT&T
+aws-oh-9|208.115.136.196|22438|ookla|Troy, MI - Clear Rate Communications
+aws-oh-1|208.115.136.1|36001|ookla|Random Lake, WI - Bertram Communications
+aws-oh-10|208.115.136.22|11417|ookla|Dekalb, IL - Northern Illinois University
+aws-og-6|206.51.46.18|63270|ookla|Denver, CO - Aerux Broadband
+aws-og-5|198.32.195.27|13868|ookla|Corvallis, OR - PEAK Internet
+aws-og-2|52.95.54.49|25865|ookla|Lavaca, AR - Pinnacle Communications
+aws-vg-5|52.93.61.89|53347|ookla|Sioux Center, IA - Premier Communications
+aws-vg-1|206.126.238.49|14713|ookla|Ashburn, VA - Hosted Backbone, LLC
+aws-og-9|206.81.80.37|23033|ookla|Seattle, WA - Wowrack
+aws-vg-4|52.93.61.73|40328|ookla|Houston, MN - AcenTek-Speedtest1
+aws-og-1|184.104.193.46|53407|ookla|Murray, UT - UTOPIA Fiber
+aws-oh-1|150.222.66.72|7922|comcast|Nashville, TN
+aws-oh-5|54.239.105.161|46562|ookla|Marietta, GA - NationalNet
+aws-vg-7|54.239.105.147|16700|ookla|Blakely, GA - City of Blakely
+aws-oh-9|54.239.105.151|11758|ookla|Nashville, TN - iRis Networks
+aws-ca-1|52.95.216.219|1239|ookla|Seattle, WA - Sprint
+aws-oh-6|52.93.61.57|40328|ookla|Houston, MN - AcenTek-Speedtest1
+aws-vg-7|64.125.12.29|30633|ookla|Manassas, VA - LeaseWeb
+aws-og-3|206.81.81.53|32354|ookla|San Francisco, CA - Unwired
+aws-vg-1|198.32.118.82|29838|ookla|New York, NY - Atlantic Metro
+aws-oh-3|206.223.118.169|23473|ookla|Atlanta, GA - Pavlov Media
+aws-og-9|38.104.127.169|174|ndt|ndt.iupui.mlab3.sea08.measurement-lab.org
+aws-vg-8|150.222.66.100|20115|ookla|Kingsport, TN - Spectrum
+aws-ca-5|52.46.166.3|23483|ookla|Redding, CA - Shasta County Office of Education
+aws-oh-1|99.82.176.173|20001|ookla|Los Angeles, CA - Spectrum
+aws-oh-3|62.115.188.168|1299|ndt|ndt.iupui.mlab1.dfw07.measurement-lab.org
+aws-oh-1|129.250.201.105|396052|ookla|Stevenson, AL - North Alabama Electric Cooperative
+aws-og-7|52.95.53.234|11492|ookla|Kansas City, MO - Sparklight
+aws-vg-4|66.208.228.189|7922|ookla|Boston, MA - Comcast
+aws-vg-7|206.126.115.172|32953|ookla|Hudson, NY - Mid-Hudson Data Corp
+aws-og-9|52.95.54.15|209|ookla|Nogales, AZ - Bluespan
+aws-og-4|150.222.136.58|7018|ookla|New Orleans, LA - AT&T
+aws-vg-5|206.126.236.135|29748|ookla|Dulles, VA - QTS Data Centers
+aws-oh-9|52.93.239.36|1239|ookla|Miami, FL - Sprint
+aws-vg-5|54.239.105.175|63448|ookla|Rogersville, TN - Holston Connect
+aws-oh-7|52.93.239.122|22773|ookla|Hampton, VA - Cox Communications
+aws-ca-1|52.95.40.45|7922|comcast|Portland, OR
+aws-vg-7|184.105.222.41|46886|ookla|Fremont, CA - Tekify Fiber & Wireless
+aws-vg-8|150.222.66.50|20115|ookla|Sugar Hill, GA - Spectrum
+aws-ca-6|173.205.58.53|3257|ndt|ndt.iupui.mlab3.sea03.measurement-lab.org
+aws-vg-3|198.32.160.183|40244|ookla|Albany, NY - TurnKey Internet, Inc.
+aws-oh-8|52.93.239.66|7018|ookla|Nashville, TN - AT&T
+aws-oh-6|52.93.249.104|6453|ndt|ndt.iupui.mlab2.ord03.measurement-lab.org
+aws-oh-3|72.52.92.54|33387|ookla|Kansas City, MO - Nocix
+aws-og-1|198.32.195.44|36012|ookla|Central Point, OR - Hunter Communications
+aws-og-6|209.124.181.244|10430|ookla|Silverdale, WA - Central Kitsap School District
+aws-ca-3|198.32.176.164|20448|ookla|Chattanooga, TN - Peace Communications
+aws-ca-5|52.95.219.9|32181|ookla|Los Angeles, CA - GigeNET
+aws-oh-9|52.95.2.239|11138|ookla|Bismarck, ND - BEK Communications
+aws-og-1|206.81.80.47|7782|ookla|Valdez, AK - Copper Valley Internet
+aws-og-6|64.86.123.206|6453|ndt|ndt.iupui.mlab3.sea02.measurement-lab.org
+aws-og-2|52.93.94.216|22773|ookla|Sahuarita, AZ - Bluespan
+aws-vg-7|54.239.105.167|19331|ookla|Gainesboro, TN - Twin Lakes Telephone Cooperative
+aws-oh-8|52.95.219.59|11492|ookla|Fargo, ND - Sparklight
+aws-og-2|206.81.81.132|6510|ookla|Provo, UT - Brigham Young University
+aws-oh-8|208.115.137.53|47095|ookla|Murray, KY - Murray Electric
+aws-vg-1|173.205.39.85|14371|ookla|Duluth, MN - Paul Bunyan Communications
+aws-vg-3|206.126.237.58|62887|ookla|Ashburn, VA - Whitesky Communications LLC
+aws-og-9|206.81.80.87|10594|ookla|Spokane, WA - Cutting Edge Communications, Inc
+aws-vg-1|206.126.236.57|11796|ookla|Eau Claire, WI - Airstream Communications
+aws-oh-9|52.93.239.78|1239|ookla|Washington, DC - Sprint
+aws-og-3|150.222.136.52|7018|ookla|Cicero, IL - AT&T
+aws-og-5|52.95.54.225|14574|ookla|Montgomery, IN - RTC Communications
+aws-vg-1|206.126.238.7|33616|ookla|Tipton, MO - Co-Mo Connect
+aws-og-8|206.81.81.156|26935|ookla|Yakima, WA - Noel Communications
+aws-oh-7|52.93.61.69|26860|ookla|Brookings, SD - Swiftel Communications
+aws-oh-2|206.223.118.142|5009|ookla|Gonzales, LA - Eatel
+aws-og-2|198.32.195.104|20394|ookla|Tacoma, WA - Rainier Connect
+aws-oh-9|206.126.237.157|27630|ookla|Los Angeles, CA - Xfernet
+aws-ca-4|206.81.80.209|21947|ookla|Missoula, MT - Blackfoot
+aws-oh-1|52.93.239.46|6181|ookla|Cincinnati, OH - Cincinnati Bell Telephone
+aws-oh-11|206.108.255.53|36374|ookla|Brandon, MN - Stellar Association, LLC
+aws-vg-8|4.79.22.73|3356|ndt|ndt.iupui.mlab1.atl08.measurement-lab.org
+aws-oh-6|206.108.255.49|13576|ookla|Sioux Falls, SD - SDN Communications
+aws-og-8|99.82.179.7|54936|ookla|Peoria, AZ - Zona Wyyerd
+aws-vg-6|201.174.151.42|32098|ookla|Dallas, TX - Transtelco
+aws-og-4|52.95.54.89|18978|ookla|Los Angeles, CA - Enzu Inc.
+aws-vg-4|206.126.237.79|62798|ookla|Opelika, AL - Point Broadband
+aws-oh-5|52.95.3.11|22561|ookla|Winter Park, FL - CenturyLink
+aws-vg-5|185.134.180.145|33083|ookla|Somerville, MA - netBlazr
+aws-oh-8|52.93.239.82|36327|ookla|Schaumburg, IL - Vinakom Communications
+aws-og-7|206.81.81.149|25905|ookla|Klamath Falls, OR - FireServe, LLC
+aws-og-3|62.115.171.48|1299|ndt|ndt.iupui.mlab3.iad06.measurement-lab.org
+aws-og-4|198.32.195.57|32365|ookla|Sandy, OR - SandyNet
+aws-vg-4|206.126.237.80|394098|ookla|Grand Rapids, MI - OffsiteDataSync
+aws-oh-4|52.46.166.225|8047|ookla|Anchorage, AK - GCI - Anchorage
+aws-vg-8|206.82.104.92|14773|ookla|Lancaster, PA - Lancaster-Lebanon IU13
+aws-ca-5|129.250.4.119|4922|ookla|Rocky Mount, VA - Shentel Service Company
+aws-oh-10|52.95.1.151|7018|ookla|St. Louis, MO - AT&T
+aws-vg-4|54.239.105.163|31863|ookla|Lenoir, NC - ITMNETWORKS
+aws-og-3|52.95.54.253|209|ookla|Bismarck, ND - CenturyLink
+aws-ca-6|52.93.141.132|6295|ookla|Bellingham, WA - Green House Data
+aws-oh-2|150.222.71.12|7922|comcast|Foxboro, MA
+aws-oh-11|184.105.223.166|394740|ookla|Mount Gilead, OH - Consolidated Cooperative
+aws-vg-3|54.239.105.165|46562|ookla|Marietta, GA - NationalNet
+aws-vg-4|52.46.166.81|19108|ookla|Greenville, NC - Suddenlink Communications LLC
+aws-ca-3|198.32.176.3|1280|ndt|ndt.iupui.mlab1.nuq02.measurement-lab.org
+aws-oh-5|206.126.238.57|10423|ookla|East Lansing, MI - Spartan Net
+aws-og-9|52.95.53.254|4181|ookla|Madras, OR - Sureline Broadband
+aws-og-7|99.82.179.39|26557|ookla|Northfield, MN - Carleton College
+aws-vg-6|40.136.112.150|7029|ookla|Ashburn, VA - Windstream
+aws-og-1|40.136.112.168|7029|ookla|Los Angeles, CA - Windstream
+aws-oh-5|52.93.239.54|26292|ookla|Shrewsbury, MA - SELCO
+aws-oh-9|52.93.239.6|7922|comcast|Philadelphia, PA
+aws-oh-7|150.222.76.108|7922|comcast|Twin Cities, MN
+aws-og-3|52.95.219.157|10700|ookla|Leland, MS - TecInfo Communications, LLC
+aws-ca-3|50.208.232.37|7922|comcast|San Jose, CA
+aws-oh-7|208.115.137.20|17253|ookla|Jackson, MS - TEC
+aws-oh-6|52.95.2.35|198605|ookla|New York, NY - CCleaner
+aws-oh-7|162.252.69.212|53785|ookla|Greensboro, NC - University of North Carolina, Greensboro
+aws-oh-10|52.93.62.105|600|ookla|Cedarville, OH - Cedarville University
+aws-vg-3|4.28.125.109|3356|ookla|Midland, TX - WesTex Connect
+aws-oh-8|208.115.136.176|23473|ookla|Champaign, IL - Pavlov Media
+aws-ca-4|52.93.141.136|11404|ookla|San Francisco, CA - Wave
+aws-og-4|52.95.218.107|20115|ookla|Medford, OR - Spectrum
+aws-ca-5|38.88.224.185|174|ndt|ndt.iupui.mlab3.nuq03.measurement-lab.org
+aws-og-7|150.222.136.66|7018|ookla|San Francisco, CA - AT&T
+aws-og-1|52.95.54.147|209|ookla|Orlando, FL - CenturyLink
+aws-vg-8|198.32.243.89|23089|ookla|Boca Raton, FL - Hotwire Fision
+aws-vg-2|206.126.237.158|19919|ookla|Richmond, VA - VA SkyWire, LLC
+aws-ca-4|150.222.234.40|6461|ndt|ndt.iupui.mlab3.lga06.measurement-lab.org
+aws-vg-2|206.126.238.16|7850|ookla|Albuquerque, NM - CityLink Telecommunications NM
+aws-ca-3|74.40.26.249|5650|ookla|Palo Alto, CA - Frontier
+aws-oh-3|206.223.118.175|40581|ookla|Fayetteville, AR - #RazorbackWiFi
+aws-oh-4|52.93.249.116|20115|ookla|Elk Rapids, MI - Cherry Capital Communications
+aws-oh-5|52.95.2.237|209|ookla|Spokane, WA - CenturyLink
+aws-vg-1|66.76.219.42|19108|ookla|Rocky Mount, NC - Suddenlink Communications LLC
+aws-ca-3|206.41.105.59|22772|ookla|Tucson, AZ - Login Inc.
+aws-vg-2|206.41.108.80|29866|ookla|Miami, FL - Opticaltel
+aws-og-5|150.222.136.72|7018|ookla|Bartlesville, OK - Wake Wireless
+aws-og-4|52.95.218.143|1239|ookla|Tacoma, WA - Sprint
+aws-oh-2|206.126.236.64|4181|ookla|Madras, OR - Sureline Broadband
+aws-og-6|150.222.234.14|54706|ookla|San Diego, CA - ZTelco
+aws-og-8|150.222.234.6|22773|ookla|Oklahoma City, OK - Cox - Oklahoma City
+aws-ca-2|128.242.179.49|33294|ookla|Arkadelphia, AR - South Central Connect
+aws-oh-1|52.93.239.8|7018|ookla|Pacific, MO - Bays ET Highspeed Internet Service
+aws-vg-2|50.208.232.13|7922|comcast|Woodstock, GA
+aws-oh-6|173.205.58.73|3257|ndt|ndt.iupui.mlab3.lax03.measurement-lab.org
+aws-oh-4|52.93.239.108|62759|ookla|Reedsburg, WI - RUC LightSpeed
+aws-oh-9|38.142.66.17|174|ookla|Chicago, IL - HiPOINT Technology Services
+aws-og-1|207.231.248.132|23483|ookla|Redding, CA - Shasta County Office of Education
+aws-og-5|150.222.136.68|7018|ookla|Houston, TX - AT&T
+aws-ca-6|65.113.42.249|209|ookla|Clermont, FL - BT Services
+aws-ca-3|52.95.40.77|7922|comcast|Portland, OR
+aws-ca-3|38.88.224.217|174|ookla|San Jose, CA - Janus Networks
+aws-ca-2|206.223.116.4|21854|ookla|Graham, TX - Digital Passage
+aws-ca-6|198.32.176.20|32864|ookla|Fremont, CA - Converse in Code Networks
+aws-oh-11|75.149.230.189|7922|comcast|Twin Cities, MN
+aws-vg-6|206.126.115.68|33604|ookla|Burlington, VT - Burlington Telecom
+aws-vg-6|206.41.108.73|20473|ookla|Miami, FL - Tigo Business - Bolivia
+aws-ca-4|213.248.87.117|1299|ndt|ndt.iupui.mlab3.den05.measurement-lab.org
+aws-oh-7|52.93.239.106|20473|ookla|Troy, NY - Foxtail Technology
+aws-oh-1|52.95.2.205|7922|comcast|Pittsburgh, PA
+aws-og-9|52.95.55.214|3356|ndt|ndt.iupui.mlab1.lga05.measurement-lab.org
+aws-vg-3|4.14.156.165|26914|ookla|Rochester, NY - Synoptek
+aws-vg-4|99.82.178.3|21559|ookla|San Juan, PR - FiberX
+aws-og-9|52.95.54.151|209|ookla|Sioux Falls, SD - CenturyLink
+aws-oh-1|52.93.239.96|22773|ookla|Alpharetta, GA - Cox - Atlanta
+aws-og-2|206.81.81.116|10242|ookla|Minneapolis, MN - US Internet
+aws-og-4|173.205.51.97|3257|ndt|ndt.iupui.mlab1.ord04.measurement-lab.org
+aws-vg-2|206.41.108.109|62622|ookla|Fort Lauderdale, FL - Broadwave
+aws-og-3|150.222.136.64|7018|ookla|Richardson, TX - AT&T
+aws-oh-3|206.108.255.129|64227|ookla|Brainerd, MN - CTC
+aws-ca-1|206.81.81.131|64227|ookla|Brainerd, MN - CTC
+aws-oh-3|99.82.176.167|11492|ookla|Anniston, AL - Sparklight
+aws-vg-4|206.82.104.241|14464|ookla|North Kingstown, RI - OSHEAN, Inc
+aws-oh-5|208.115.136.114|11550|ookla|Bloomington, IN - Smithville Communications
+aws-oh-10|50.248.118.201|7922|ookla|Houston, TX - Comcast
+aws-ca-5|12.94.42.185|7018|ookla|San Francisco, CA - AT&T
+aws-oh-9|52.93.239.60|398019|ookla|Chandler, AZ - Detroit Network
+aws-og-7|52.95.54.219|209|ookla|Rocky Mount, NC - CenturyLink
+aws-oh-11|52.93.239.124|22180|ookla|Norfolk, NE - Connecting Point
+aws-oh-5|173.167.58.185|7922|comcast|Area IV, IL
+aws-vg-1|52.95.216.231|394868|ookla|Wilkes-Barre, PA - NEPA Fiber
+aws-oh-4|206.223.119.134|32709|ookla|Terre Haute, IN - Joink, LLC
+aws-ca-5|52.95.217.71|19108|ookla|Lake Charles, LA - Suddenlink Communications LLC
+aws-oh-10|52.95.2.183|55193|ookla|Evanston, WY - NGL Connection
+aws-vg-6|99.82.177.247|394109|ookla|Tampa, FL - CFH CABLE INC
+aws-oh-9|52.95.1.235|22773|ookla|Fairfax, VA - Cox - Nova
+aws-oh-1|52.93.239.68|6461|ndt|ndt.iupui.mlab3.lga06.measurement-lab.org
+aws-oh-5|173.205.58.77|3257|ndt|ndt.iupui.mlab1.den06.measurement-lab.org
+aws-og-1|206.81.80.60|16713|ookla|Bainbridge Island, WA - Net253, LLC
+aws-oh-4|52.95.3.9|7922|comcast|Secaucus, NJ
+aws-ca-2|4.35.164.85|3356|ndt|ndt.iupui.mlab3.den02.measurement-lab.org
+aws-vg-1|206.126.115.72|53828|ookla|Dallas, TX - Nitel
+aws-oh-11|52.93.239.44|397137|ookla|Lynchburg, VA - Seiontec Systems LLC
+aws-ca-1|40.136.112.164|7029|ookla|Los Angeles, CA - Windstream
+aws-oh-1|52.93.239.10|12177|ookla|Houston, TX - En-Touch Systems Inc.
+aws-oh-4|52.95.1.207|397026|ookla|Logan, UT - Wi-Fiber, Inc.
+aws-oh-9|206.108.255.121|33362|ookla|Karlstad, MN - Wikstrom Telephone Company
+aws-og-7|52.95.54.123|1423|ookla|Everest, KS - Rainbow Communications
+aws-oh-10|206.108.255.51|26557|ookla|Northfield, MN - Carleton College
+aws-oh-2|52.93.239.64|7018|ookla|Indianapolis, IN - AT&T
+aws-vg-8|52.95.216.137|6128|ookla|New York, NY - Optimum Online
+aws-oh-4|52.95.2.211|11714|ookla|Milford, NE - Educational Service Unit 6
+aws-oh-1|52.93.239.126|10835|ookla|Casper, WY - Visionary Communications, Inc.
+aws-vg-3|72.21.221.197|17293|ookla|San Antonio, TX - VTX 1
+aws-oh-5|52.93.239.12|209|ookla|Mansfield, TX - CenturyLink
+aws-ca-6|99.82.182.123|22773|ookla|Omaha, NE - Cox - Omaha
+aws-ca-6|66.220.3.2|46886|ookla|Fremont, CA - Tekify Fiber & Wireless
+aws-ca-4|206.223.123.130|27630|ookla|Los Angeles, CA - Xfernet
+aws-oh-11|208.115.136.166|11232|ookla|Watertown, SD - Midco
+aws-oh-10|52.95.216.121|23155|ookla|Waterloo, IL - Harrisonville Telephone Company
+aws-og-9|150.222.136.60|7018|ookla|Tucker, GA - AT&T
+aws-oh-11|206.126.236.134|19653|ookla|Climax, MI - CTS Telecom
+aws-og-5|52.95.55.218|23118|ookla|West Jefferson, NC - Skyline SkyBest
+aws-oh-3|208.115.136.75|10242|ookla|Minneapolis, MN - US Internet
+aws-og-5|40.136.112.170|7029|ookla|Lincoln, NE - Windstream
+aws-vg-3|150.222.66.78|7922|comcast|Tallahassee, FL
+aws-vg-7|54.239.105.159|16700|ookla|Thomasville, GA - CNS Internet
+aws-vg-8|4.16.38.17|395658|ookla|Cassville, MO - goBEC Fiber Network
+aws-og-1|173.205.58.89|394581|ookla|Easton, WA - Bluespan
+aws-og-6|52.95.53.240|53292|ookla|Troy, MI - ManagedWay Company
+aws-ca-4|128.241.219.17|395662|ookla|Fayetteville, AR - OzarksGo
+aws-oh-3|52.93.239.92|7922|comcast|Manassas, VA
+aws-og-1|52.95.55.192|395658|ookla|Cassville, MO - goBEC Fiber Network
+aws-og-6|99.82.178.93|2495|ookla|Kansas City, MO - Kansas Research and Education Network
+aws-vg-3|206.108.236.49|26292|ookla|Shrewsbury, MA - SELCO
+aws-og-6|206.81.81.151|19653|ookla|Climax, MI - CTS Telecom
+aws-oh-2|52.93.239.4|14382|ookla|Austin, TX - Education Service Center, Region 13
+aws-ca-2|65.113.42.13|209|ookla|Portland, OR - CenturyLink
+aws-vg-4|206.223.118.240|14860|ookla|Laredo, TX - Smartcom Telephone, LLC
+aws-oh-6|52.93.239.40|209|ookla|Billings, MT - CenturyLink
+aws-ca-1|54.240.243.37|62887|ookla|Los Angeles, CA - Whitesky Communications LLC
+aws-og-1|52.95.54.21|3356|ndt|ndt.iupui.mlab3.mia06.measurement-lab.org
+aws-oh-11|206.108.255.119|14371|ookla|Bemidji, MN - Paul Bunyan Communications
+aws-og-1|52.95.53.236|32281|ookla|Wiggins, CO - CCT
+aws-og-3|150.222.136.42|7018|ookla|Los Angeles, CA - AT&T
+aws-og-2|150.222.136.54|7018|ookla|Austin, TX - AT&T
+aws-og-7|206.81.81.142|36374|ookla|Brandon, MN - Stellar Association, LLC
+aws-oh-4|52.95.2.93|3737|ookla|Palmerton, PA - PenTeleData
+aws-og-3|198.32.195.67|11404|ookla|Pendleton, OR - Pendleton Fiber
+aws-oh-5|96.34.152.14|20115|ookla|Eau Claire, WI - Spectrum
+aws-og-1|62.115.171.50|394968|ookla|Chicago, IL - QTS Data Centers
+aws-og-7|206.81.81.92|21632|ookla|Hamilton, MT - Cybernet1 Inc.
+aws-oh-3|52.93.249.60|6453|ndt|ndt.iupui.mlab2.dfw02.measurement-lab.org
+aws-vg-5|150.222.205.76|20115|ookla|St Cloud, MN - Spectrum
+aws-oh-9|52.93.239.90|209|ookla|Charlottesville, VA - CenturyLink
+aws-oh-10|150.222.66.86|7922|ookla|Stone Mountain, GA - Comcast
+aws-og-7|206.81.81.45|11924|ookla|Bozeman, MT - Montana Opticom LLC
+aws-vg-2|206.126.237.210|49544|ookla|Ashburn, VA - i3D.net
+aws-oh-10|62.115.188.74|1299|ndt|ndt.iupui.mlab3.den05.measurement-lab.org
+aws-ca-6|209.124.190.166|10430|ookla|Silverdale, WA - Central Kitsap School District
+aws-vg-1|4.16.185.249|16863|ookla|Moncks Corner, SC - Home Telecom
+aws-oh-11|52.95.2.209|209|ookla|Rocky Mount, NC - CenturyLink
+aws-vg-2|198.32.160.59|10882|ookla|Ithaca, NY - Clarity Connect
+aws-ca-6|72.235.190.89|36149|ookla|Honolulu, HI - Hawaiian Telcom
+aws-ca-4|52.93.65.68|22909|ookla|Waverly, TN - Fast Forward Broadband
+aws-ca-4|129.250.194.121|36556|ookla|Van Buren, AR - Wave Rural Connect, LLC.
+aws-og-9|52.95.54.55|21581|ookla|San Diego, CA - M5 Hosting
+aws-oh-6|52.46.166.179|237|ookla|Marquette, MI - Merit Network, Inc
+aws-vg-3|4.16.116.253|19830|ookla|Ringgold, GA - Ringgold Telephone Company
+aws-og-9|198.32.195.96|25961|ookla|Philomath, OR - Alyrica Networks
+aws-oh-3|18.222.65.177|19318|ookla|Secaucus, NJ - Interserver, inc
+aws-ca-4|150.222.234.50|6461|ndt|ndt.iupui.mlab2.lax05.measurement-lab.org
+aws-ca-6|52.95.216.225|13760|ookla|Atlanta, GA - Southern Light, LLC
+aws-vg-3|54.239.105.149|27446|ookla|Asheville, NC - ERC Broadband
+aws-vg-1|206.41.108.132|23089|ookla|Miami, FL - Hotwire Fision
+aws-vg-5|206.126.236.145|394111|ookla|Staffordsville, KY - Foothills Broadband
+aws-oh-8|209.124.52.16|26271|ookla|Mount Pleasant, MI - CMS Internet
+aws-og-3|52.95.55.202|33623|ookla|Greenville, AL - Hayneville Fiber Transport
+aws-vg-6|52.95.216.119|7219|ookla|Atlanta, GA - Tulix Systems, Inc
+aws-og-4|64.57.30.44|59|ookla|Madison, WI - Chrysalis Biosciences Corporation
+aws-oh-9|52.93.249.140|6453|ndt|ndt.iupui.mlab2.lga03.measurement-lab.org
+aws-oh-8|52.95.2.99|1239|ookla|Orlando, FL - Sprint
+aws-og-4|52.95.54.181|209|ookla|Indianapolis, IN - CenturyLink
+aws-oh-6|208.115.136.124|29838|ookla|New York, NY - Atlantic Metro
+aws-vg-8|99.82.176.35|19108|ookla|Parkersburg, WV - Suddenlink Communications LLC
+aws-oh-5|52.93.239.42|7922|comcast|Pima, AZ
+aws-ca-5|150.222.242.100|25795|ookla|Los Angeles, CA - System Solutions, Inc
+aws-vg-1|52.93.249.166|14334|ookla|Wisconsin Rapids, WI - Renaissance Learning, Inc.
+aws-og-4|52.95.55.212|16863|ookla|Moncks Corner, SC - Home Telecom
+aws-og-7|150.222.242.166|701|ookla|Chesapeake, VA - Tachyon Dynamics
+aws-oh-9|52.93.239.84|14291|ookla|Hagerstown, MD - Antietam Broadband
+aws-vg-1|99.82.176.245|3663|ookla|Green Bay, WI - Nsight
+aws-ca-6|198.32.176.128|210|ookla|Salt Lake City, UT - Utah Education Network
+aws-vg-4|150.222.66.84|7922|comcast|Woodstock, GA
+aws-og-5|65.122.121.9|36141|ookla|Burley, ID - Simply Cyber Internet
+aws-og-1|198.32.195.32|32869|ookla|Portland, OR - SilverStarTelecom
+aws-ca-5|72.21.221.73|13760|ookla|Jacksonville, FL - Southern Light, LLC
+aws-vg-2|198.32.160.191|3580|ookla|Parsippany, NJ - Planet Networks
+aws-og-4|206.223.123.25|49544|ookla|Los Angeles, CA - i3D.net
+aws-vg-1|206.41.108.47|35892|ookla|San Juan, PR - Dreyfous
+aws-oh-4|206.223.118.92|21854|ookla|Graham, TX - Digital Passage
+aws-og-9|198.32.195.16|33470|ookla|Canby, OR - DirectLink
+aws-vg-7|54.239.105.153|21921|ookla|New Hope, AL - New Hope Telephone Coop
+aws-og-8|206.81.81.175|26370|ookla|Lopez Island, WA - as26370
+aws-oh-1|209.124.52.2|53292|ookla|Troy, MI - ManagedWay Company
+aws-ca-6|206.51.46.118|63270|ookla|Denver, CO - Aerux Broadband
+aws-oh-9|52.95.219.77|11847|ookla|Bangor, ME - Otelco
+aws-og-3|198.32.195.93|53597|ookla|Madison, WI - Hoyos Consulting LLC
+aws-ca-1|52.95.218.215|22773|ookla|Orange County, CA - Cox - Orange County
+aws-og-1|38.142.49.9|174|ookla|Seattle, WA - fdcservers.net
+aws-oh-1|208.115.137.105|11979|ookla|Bowling Green, KY - Bluegrass Network LLC
+aws-vg-1|99.82.178.5|62913|ookla|Moca, PR - SpeedyNet
+aws-vg-8|184.105.213.69|393670|ookla|Atlanta, GA - Southern Fibernet Corp
+aws-vg-2|150.222.66.76|7922|comcast|Tallahassee, FL
+aws-vg-8|206.108.236.50|35891|ookla|Norwood, MA - Norwood Light Broadband
+aws-oh-4|52.93.62.37|7925|ookla|Charleston, WV - West Virginia Broadband Enhancement Council
+aws-og-8|198.32.195.100|27008|ookla|Bend, OR - BendTel Inc.
+aws-ca-2|173.241.129.145|3257|ndt|ndt.iupui.mlab3.lax03.measurement-lab.org
+aws-ca-4|213.248.101.157|1299|ndt|ndt.iupui.mlab3.nuq07.measurement-lab.org
+aws-oh-1|4.15.84.229|12119|ookla|East Peoria, IL - i3 Broadband
+aws-oh-7|40.136.112.148|7029|ookla|Ashburn, VA - Windstream
+aws-ca-3|150.222.234.52|6461|ndt|ndt.iupui.mlab1.dfw05.measurement-lab.org
+aws-og-3|206.81.81.97|3853|ookla|Langley, WA - Whidbey Telecom
+aws-oh-10|52.95.2.127|25656|ookla|Oxford, MS - The University of Mississippi
+aws-vg-4|52.46.167.211|393885|ookla|Haviland, KS - Giant Communications, Inc.
+aws-oh-3|206.223.119.132|12129|ookla|Southfield, MI - 123.Net, Inc.
+aws-vg-1|52.93.243.55|20115|ookla|Fort Worth, TX - Spectrum
+aws-og-5|50.46.183.254|5650|ookla|Seattle, WA - Frontier
+aws-ca-1|206.223.116.187|6465|ookla|Oakland, CA - OpenFiber Inc.
+aws-oh-6|129.250.201.93|395379|ookla|Martinsville, IN - SCI FIBER
+aws-oh-3|52.93.249.48|6453|ndt|ndt.iupui.mlab3.nuq04.measurement-lab.org
+aws-ca-1|96.34.156.29|20115|ookla|Monterey Park, CA - Spectrum
+aws-ca-2|69.36.225.29|13331|ookla|Seattle, WA - Metapeer
+aws-og-6|206.81.81.117|11796|ookla|Eau Claire, WI - Airstream Communications
+aws-og-4|206.81.81.44|19116|ookla|Yakima, WA - Washington Broadband
+aws-og-6|52.95.53.250|1299|ndt|ndt.iupui.mlab3.nuq07.measurement-lab.org
+aws-oh-10|52.95.3.33|7922|comcast|Richmond, VA
+aws-og-9|206.81.81.237|46276|ookla|Auburn, CA - Smarterbroadband, Inc
+aws-oh-3|52.93.249.128|6453|ndt|ndt.iupui.mlab1.mia03.measurement-lab.org
+aws-og-8|206.81.80.175|33339|ookla|Glasgow, MT - Nemont
+aws-oh-3|99.82.176.105|393885|ookla|Haviland, KS - Giant Communications, Inc.
+aws-ca-4|99.82.180.239|3663|ookla|Green Bay, WI - Nsight
+aws-vg-2|99.82.178.11|2553|ookla|Tallahassee, FL - Florida State University - ITS
+aws-ca-3|52.93.94.204|22773|ookla|Sahuarita, AZ - Bluespan
+aws-og-9|52.95.218.217|22773|ookla|San Diego, CA - Cox - San Diego
+aws-og-6|205.177.32.65|14860|ookla|Laredo, TX - Smartcom Telephone, LLC
+aws-vg-1|208.115.137.55|11062|ookla|Metamora, IL - MTCO Communications
+aws-vg-5|23.30.206.33|7922|comcast|Foxboro, MA
+aws-og-2|99.82.183.135|210|ookla|Ephraim, UT - Snow College
+aws-oh-3|208.115.136.142|23655|ookla|Los Angeles, CA - 2degrees
+aws-oh-7|52.93.239.50|20205|ookla|Toledo, OH - Amplex
+aws-oh-2|206.108.255.120|21873|ookla|Mountain Iron, MN - Northeast service Cooperative
+aws-og-7|75.149.228.177|7922|comcast|Seattle, WA
+aws-og-7|52.95.53.242|1299|ndt|ndt.iupui.mlab3.den05.measurement-lab.org
+aws-oh-1|52.93.239.76|7922|comcast|Augusta, GA
+aws-og-5|150.222.136.56|7018|ookla|Cleveland, OH - AT&T
+aws-oh-11|173.205.44.245|3257|ndt|ndt.iupui.mlab2.atl04.measurement-lab.org
+aws-oh-3|52.93.239.102|7922|comcast|New Castle, DE
+aws-vg-3|206.126.237.38|29713|ookla|Berkeley Springs, WV - Morgan Wireless, LLC
+aws-oh-4|52.95.219.79|33363|ookla|Livonia, MI - Spectrum
+aws-ca-6|50.208.232.41|7922|comcast|San Jose, CA
+aws-oh-1|173.167.56.213|7922|comcast|Area IV, IL
+aws-ca-6|99.82.180.237|10796|ookla|Columbus, OH - Spectrum
+aws-vg-5|206.126.236.156|54901|ookla|Winchester, VA - Wave2Net LLC
+aws-vg-6|72.21.221.141|32899|ookla|Columbus, OH - Bresco Broadband
+aws-ca-2|52.93.141.152|395914|ookla|Santa Maria, CA - Advanced Wireless
+aws-oh-2|206.223.118.179|5078|ookla|Oklahoma City, OK - OneNet
+aws-og-9|184.105.64.137|27539|ookla|Hazen, ND - West River Telecom
+aws-vg-7|99.82.176.75|11351|ookla|Syracuse, NY - Spectrum
+aws-og-1|150.222.136.44|7018|ookla|Detroit, MI - AT&T
+aws-og-6|65.153.72.13|46595|ookla|Artesia, NM - Penasco Valley Telecommunications
+aws-oh-7|150.222.66.80|7922|ookla|Tallahassee, FL - Comcast
+aws-vg-8|206.126.238.75|22987|ookla|Johnson City, TN - BrightRidge
+aws-og-8|198.32.195.22|25899|ookla|Portland, OR - LS Networks
+aws-og-5|206.81.80.215|4474|ookla|Cody, WY - TCT
+aws-vg-1|96.87.8.157|7922|ookla|Miami, FL - Comcast
+aws-og-9|52.95.55.206|20257|ookla|Sumter, SC - Farmers Telephone Cooperative, Inc.
+aws-oh-8|52.93.239.62|27262|ookla|Groton, CT - Thames Valley Communications
+aws-ca-3|209.148.113.197|7065|ookla|San Jose, CA - Sonic.net, Inc.
+aws-vg-6|72.52.92.226|62874|ookla|Ashburn, VA - web2objects
+aws-oh-5|52.93.239.104|3737|ookla|Honesdale, PA - Wayne Highlands School District
+aws-oh-1|206.223.118.28|3794|ookla|College Station, TX - Texas A&M University, College of Engineering
+aws-oh-7|208.115.136.232|11114|ookla|Lafayette, IN - Wintek Corporation
+aws-vg-6|99.82.176.203|23473|ookla|Atlanta, GA - Pavlov Media
+aws-vg-6|68.142.24.178|40784|ookla|Miami, FL - hiQ internet
+aws-ca-1|206.223.117.10|25840|ookla|Mesquite, NV - Cascade Access, Inc (Reliance Connects)
+aws-vg-2|198.179.18.54|11722|ookla|Watertown, NY - Westelcom
+aws-oh-1|52.93.249.164|6453|ndt|ndt.iupui.mlab3.iad03.measurement-lab.org
+aws-ca-5|150.222.234.46|32798|ookla|Colorado City, CO - Rye Telephone Company
+aws-og-6|64.57.30.42|14382|ookla|Austin, TX - Education Service Center, Region 13
+aws-og-1|52.95.53.230|1299|ndt|ndt.iupui.mlab2.sea07.measurement-lab.org
+aws-vg-5|99.83.64.67|2637|ookla|Atlanta, GA - Georgia Institute of Technology
+aws-vg-3|50.248.119.189|7922|comcast|Foxboro, MA
+aws-oh-2|150.222.76.66|7922|ookla|Detroit, MI - Comcast
+aws-oh-1|52.93.239.32|2711|ookla|Raleigh, NC - Segra
+aws-oh-1|206.223.118.188|395662|ookla|Kansas City, MO - Conexon
+aws-oh-5|208.115.136.147|393950|ookla|Indianapolis, IN - Xiber LLC
+aws-og-9|150.222.234.34|22773|ookla|Omaha, NE - Cox - Omaha
+aws-oh-8|208.115.136.60|53597|ookla|Madison, WI - Hoyos Consulting LLC
+aws-ca-1|52.93.94.208|22773|ookla|Tucson, AZ - Bluespan
+aws-oh-2|52.46.166.223|32204|ookla|Ketchikan, AK - KPU Telecom / City of Ketchikan
+aws-og-8|206.81.80.164|6295|ookla|Seattle, WA - Green House Data, Inc
+aws-vg-4|72.21.221.135|14103|ookla|Lansing, MI - ACD.net
+aws-ca-1|4.68.39.13|3356|ookla|Midland, TX - WesTex Connect
+aws-vg-1|52.46.166.203|7925|ookla|Charleston, WV - West Virginia Broadband Enhancement Council
+aws-og-2|184.104.193.141|54483|ookla|Los Angeles, CA - GeoLinks
+aws-og-1|52.95.40.109|7922|comcast|Portland, OR
+aws-oh-4|150.222.76.70|7922|ookla|Chicago, IL - Comcast
+aws-ca-2|206.223.116.84|13868|ookla|Corvallis, OR - PEAK Internet
+aws-vg-8|99.83.64.65|10631|ookla|Atlanta, GA - Georgia State University
+aws-oh-10|208.115.136.154|23367|ookla|Atlanta, GA - Genesis Adaptive Hosting, INC.
+aws-vg-8|4.16.74.17|3356|ndt|ndt.iupui.mlab3.iad05.measurement-lab.org
+aws-vg-4|50.248.119.149|7922|comcast|Miami, FL
+aws-oh-8|52.93.239.80|1239|ookla|New York, NY - Sprint
+aws-ca-1|99.82.179.5|54936|ookla|Peoria, AZ - Zona Wyyerd
+aws-oh-2|208.115.136.99|19754|ookla|Chicago, IL - The Fusion Network
+aws-og-1|52.95.55.222|393467|ookla|Vinita, OK - BOLT Fiber Optics Services
+aws-og-2|99.82.179.15|11492|ookla|Idaho Falls, ID - Sparklight
+aws-og-2|72.21.221.123|20115|ookla|Kearney, NE - Spectrum
+aws-oh-6|52.93.239.114|209|ookla|Bismarck, ND - CenturyLink
+aws-og-3|52.95.217.151|33544|ookla|San Francisco, CA - Wiline Networks
+aws-vg-1|206.126.237.172|46293|ookla|Cassopolis, MI - Midwest Connections
+aws-og-1|65.122.235.177|209|ookla|Cleveland, OH - CenturyLink
+aws-ca-2|52.93.141.144|11994|ookla|Santa Cruz, CA - Cruzio
+aws-ca-4|150.222.234.42|11062|ookla|Metamora, IL - MTCO Communications
+aws-og-2|75.149.228.149|7922|comcast|Seattle, WA
+aws-oh-6|52.93.239.118|21779|ookla|Harlan, KY - Harlan Community Television, Inc.
+aws-oh-9|184.105.64.133|14363|ookla|Colchester, IL - McDonough Telephone Coop
+aws-og-5|206.81.80.241|4258|ookla|Seattle, WA - Accretive Networks
+aws-ca-6|4.16.83.217|3356|ndt|ndt.iupui.mlab1.atl08.measurement-lab.org
+aws-oh-9|52.95.2.181|25853|ookla|Ellijay, GA - Ellijay Telephone Company
+aws-og-8|150.222.136.48|7018|ookla|San Diego, CA - AT&T
+aws-og-4|150.222.234.20|22773|ookla|Providence, RI - Cox - New England
+aws-ca-1|99.82.178.81|1239|ookla|San Jose, CA - Sprint
+aws-oh-6|52.93.61.117|14371|ookla|Duluth, MN - Paul Bunyan Communications
+aws-vg-6|74.40.26.157|5650|ookla|Rochester, NY - Frontier
+aws-oh-1|208.115.136.155|23404|ookla|Jonesboro, AR - Ritter Communications
+aws-vg-1|198.32.160.67|4258|ookla|Seattle, WA - Accretive Networks
+aws-vg-2|206.126.237.101|16591|ookla|Gurley, AL - Sardis Telecom Gurley
+aws-vg-4|206.126.237.130|26744|ookla|Newington, GA - Planters Telephone Cooperative
+aws-oh-7|208.115.136.203|30600|ookla|Davenport, IA - Metronet
+aws-oh-5|52.93.239.38|16478|ookla|Bethlehem, PA - Colonial IU20
+aws-oh-10|206.223.119.201|11272|ookla|Jackson, MS - C Spire Fiber
+aws-oh-1|52.93.239.48|31953|ookla|Salt Lake City, UT - ActivePBX
+aws-og-4|206.81.81.234|63298|ookla|Boise, ID - Tekfinity
+aws-vg-8|206.126.237.136|16409|ookla|Herndon, VA - PBW Communications, LLC
+aws-og-8|206.81.80.224|16713|ookla|Kennewick, WA - xyTel Inc
+aws-og-1|206.81.80.173|13370|ookla|Wenatchee, WA - LocalTel Communications
+aws-og-5|206.81.80.109|21947|ookla|Missoula, MT - Blackfoot
+aws-oh-2|52.93.239.2|40154|ookla|Eden Prairie, MN - vRad
+aws-ca-3|54.240.243.77|29802|ookla|Los Angeles, CA - Hivelocity Hosting
+aws-og-9|206.81.81.93|19754|ookla|Helena, MT - The Fusion Network
+aws-og-9|99.82.179.41|36375|ookla|Ann Arbor, MI - University of Michigan
+aws-oh-10|54.239.105.171|63448|ookla|Rogersville, TN - Holston Connect
+aws-vg-4|52.93.62.101|22320|ookla|Yellow Springs, OH - MVECA
+aws-ca-5|54.240.243.117|201971|ookla|Los Angeles, CA - CreeperHost LTD
+aws-vg-8|4.16.98.205|3356|ookla|Abilene, TX - WesTex Connect
+aws-oh-4|52.95.2.153|7922|comcast|Katy, TX
+aws-ca-6|140.174.21.185|396052|ookla|Stevenson, AL - North Alabama Electric Cooperative
+aws-oh-4|52.95.2.149|7018|ookla|Raleigh, NC - AT&T
+aws-vg-2|23.30.207.149|7922|ookla|Houston, TX - Comcast
+aws-og-6|52.95.54.117|209|ookla|Kansas City, MO - CenturyLink
+aws-oh-2|52.93.239.120|33363|ookla|Orlando, FL - Spectrum
+aws-oh-8|69.31.111.112|20115|ookla|Allendale, MI - Spectrum
+aws-vg-5|54.239.105.169|11758|ookla|Nashville, TN - iRis Networks
+aws-ca-5|12.245.179.33|7018|ookla|New Orleans, LA - AT&T
+aws-og-2|204.52.247.36|23138|ookla|Moscow, ID - First Step Internet, LLC
+aws-og-8|52.95.53.246|16478|ookla|Bethlehem, PA - Colonial IU20
+aws-oh-1|206.126.238.85|14574|ookla|Montgomery, IN - RTC Communications
+aws-oh-2|50.31.213.165|23352|ookla|Chicago, IL - ServerCentral
+aws-vg-3|52.93.249.142|20115|ookla|Allendale, MI - Spectrum
+aws-vg-1|206.126.236.146|4385|ookla|Rochester, NY - Rochester Institute of Technology
+aws-vg-2|54.239.105.173|53435|ookla|Jackson, TN - Jackson Energy Authority
+aws-og-5|198.32.195.49|11404|ookla|Port Orchard, WA - Wave
+aws-og-3|150.222.234.32|20001|ookla|Mililani, HI - Spectrum
+aws-ca-1|206.81.80.125|26935|ookla|Yakima, WA - Noel Communications
+aws-oh-7|4.15.44.97|18978|ookla|Dallas, TX - Enzu Inc.
+aws-oh-7|150.222.66.92|20115|ookla|Slidell, LA - Spectrum
+aws-og-5|150.222.234.12|20001|ookla|Los Angeles, CA - Spectrum
